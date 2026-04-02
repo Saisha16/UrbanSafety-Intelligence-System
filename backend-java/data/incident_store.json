@@ -1,0 +1,235 @@
+{
+  "incidents" : [ ],
+  "sosAlerts" : [ {
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 01:16:39 IST 2026",
+      "action" : "SOS_RAISED",
+      "role" : "CITIZEN",
+      "user" : "citizen@safeguard.ai",
+      "note" : "Emergency alert raised"
+    } ],
+    "latitude" : 12.9716,
+    "id" : 1,
+    "priority" : "CRITICAL",
+    "userId" : "citizen@safeguard.ai",
+    "longitude" : 77.5946,
+    "timestamp" : "Sun Mar 22 01:16:39 IST 2026",
+    "status" : "ACTIVE"
+  }, {
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 21:42:43 IST 2026",
+      "action" : "SOS_RAISED",
+      "role" : "CITIZEN",
+      "user" : "citizen@safeguard.ai",
+      "note" : "Emergency alert raised"
+    } ],
+    "latitude" : 12.9716,
+    "id" : 2,
+    "priority" : "CRITICAL",
+    "userId" : "citizen@safeguard.ai",
+    "longitude" : 77.5946,
+    "timestamp" : "Sun Mar 22 21:42:43 IST 2026",
+    "status" : "ACTIVE"
+  } ],
+  "patrols" : [ {
+    "createdAt" : "Thu Mar 19 21:29:34 IST 2026",
+    "notes" : "",
+    "zone" : "MG Road",
+    "createdBy" : "police@test",
+    "assignedUnit" : "Unit-9",
+    "latitude" : 12.975,
+    "progress" : 0,
+    "id" : 1,
+    "title" : "Hotspot Unit Task",
+    "longitude" : 77.605,
+    "status" : "ASSIGNED",
+    "updatedAt" : "Sun Mar 22 01:54:27 IST 2026",
+    "progressBaselineKm" : 17.31,
+    "lastPingLat" : 13.1297512074835,
+    "lastPingLon" : 77.58722329934858,
+    "lastPingAt" : "Sun Mar 22 01:54:27 IST 2026",
+    "distanceToTargetKm" : 17.31,
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 01:54:27 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 17.31km | progress 0%"
+    } ]
+  }, {
+    "notes" : "",
+    "latitude" : 12.9716,
+    "title" : "Live GPS Patrol",
+    "createdAt" : "Sun Mar 22 01:48:05 IST 2026",
+    "zone" : "MG Road",
+    "createdBy" : "police@safeguard.ai",
+    "assignedUnit" : "Unit-GPS",
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 01:48:05 IST 2026",
+      "action" : "PATROL_CREATED",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Patrol created for zone MG Road"
+    }, {
+      "timestamp" : "Sun Mar 22 01:54:20 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 17.6km | progress 0%"
+    }, {
+      "timestamp" : "Sun Mar 22 01:54:33 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 17.6km | progress 0%"
+    }, {
+      "timestamp" : "Sun Mar 22 01:54:33 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 17.6km | progress 0%"
+    }, {
+      "timestamp" : "Sun Mar 22 01:54:33 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 17.6km | progress 0%"
+    } ],
+    "progress" : 0,
+    "id" : 2,
+    "longitude" : 77.5946,
+    "status" : "ASSIGNED",
+    "updatedAt" : "Sun Mar 22 01:54:33 IST 2026",
+    "progressBaselineKm" : 17.6,
+    "lastPingLat" : 13.129755110157836,
+    "lastPingLon" : 77.58720605168152,
+    "lastPingAt" : "Sun Mar 22 01:54:33 IST 2026",
+    "distanceToTargetKm" : 17.6
+  }, {
+    "notes" : "",
+    "lastPingLat" : 13.1297512074835,
+    "distanceToTargetKm" : 17.6,
+    "latitude" : 12.9716,
+    "progressBaselineKm" : 0.71,
+    "title" : "Live GPS Patrol",
+    "createdAt" : "Sun Mar 22 01:51:14 IST 2026",
+    "lastPingLon" : 77.58722329934858,
+    "zone" : "MG Road",
+    "createdBy" : "police@safeguard.ai",
+    "assignedUnit" : "Unit-GPS",
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 01:51:14 IST 2026",
+      "action" : "PATROL_CREATED",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Patrol created for zone MG Road"
+    }, {
+      "timestamp" : "Sun Mar 22 01:51:14 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 0.71km | progress 0%"
+    }, {
+      "timestamp" : "Sun Mar 22 01:54:20 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 17.6km | progress 0%"
+    } ],
+    "progress" : 0,
+    "lastPingAt" : "Sun Mar 22 01:54:20 IST 2026",
+    "id" : 3,
+    "longitude" : 77.5946,
+    "status" : "ASSIGNED",
+    "updatedAt" : "Sun Mar 22 01:54:20 IST 2026"
+  }, {
+    "notes" : "",
+    "lastPingLat" : 13.129789769872007,
+    "distanceToTargetKm" : 15.61,
+    "latitude" : 12.990446,
+    "progressBaselineKm" : 15.61,
+    "title" : "Hotspot Patrol #9",
+    "createdAt" : "Sun Mar 22 15:43:42 IST 2026",
+    "lastPingLon" : 77.58716403913914,
+    "zone" : "Zone 12.990, 77.604",
+    "createdBy" : "police@safeguard.ai",
+    "assignedUnit" : "",
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 15:43:42 IST 2026",
+      "action" : "PATROL_CREATED",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Patrol created for zone Zone 12.990, 77.604"
+    }, {
+      "timestamp" : "Sun Mar 22 15:43:47 IST 2026",
+      "action" : "PATROL_LIVE_PING",
+      "role" : "POLICE",
+      "user" : "police@safeguard.ai",
+      "note" : "Ping from GPS_DEVICE | distance 15.61km | progress 0%"
+    } ],
+    "progress" : 0,
+    "lastPingAt" : "Sun Mar 22 15:43:47 IST 2026",
+    "id" : 4,
+    "longitude" : 77.604342,
+    "status" : "ASSIGNED",
+    "updatedAt" : "Sun Mar 22 15:43:47 IST 2026"
+  } ],
+  "demands" : [ {
+    "createdAt" : "Thu Mar 19 21:29:32 IST 2026",
+    "governmentNote" : "",
+    "fromUser" : "citizen@test",
+    "targetRole" : "GOVERNMENT",
+    "description" : "Citizen request for stronger patrol at metro exits",
+    "id" : 1,
+    "title" : "Need more night patrolling",
+    "category" : "SAFETY",
+    "priority" : "HIGH",
+    "fromRole" : "CITIZEN",
+    "status" : "SUBMITTED",
+    "updatedAt" : "Thu Mar 19 21:29:32 IST 2026"
+  }, {
+    "fromUser" : "citizen@safeguard.ai",
+    "targetRole" : "GOVERNMENT",
+    "description" : "ccc",
+    "title" : "hello",
+    "priority" : "MEDIUM",
+    "fromRole" : "CITIZEN",
+    "createdAt" : "Sun Mar 22 01:14:26 IST 2026",
+    "governmentNote" : "",
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 01:14:26 IST 2026",
+      "action" : "DEMAND_SUBMITTED",
+      "role" : "CITIZEN",
+      "user" : "citizen@safeguard.ai",
+      "note" : "ccc"
+    } ],
+    "id" : 2,
+    "category" : "LIGHTING",
+    "status" : "SUBMITTED",
+    "updatedAt" : "Sun Mar 22 01:14:26 IST 2026"
+  }, {
+    "fromUser" : "business@safeguard.ai",
+    "targetRole" : "GOVERNMENT",
+    "description" : "nnn",
+    "title" : "   nnn",
+    "priority" : "MEDIUM",
+    "fromRole" : "BUSINESS",
+    "createdAt" : "Sun Mar 22 01:19:51 IST 2026",
+    "governmentNote" : "",
+    "audit" : [ {
+      "timestamp" : "Sun Mar 22 01:19:51 IST 2026",
+      "action" : "DEMAND_SUBMITTED",
+      "role" : "BUSINESS",
+      "user" : "business@safeguard.ai",
+      "note" : "nnn"
+    } ],
+    "id" : 3,
+    "category" : "INFRASTRUCTURE",
+    "status" : "SUBMITTED",
+    "updatedAt" : "Sun Mar 22 01:19:51 IST 2026"
+  } ],
+  "incidentIdCounter" : 1,
+  "sosIdCounter" : 3,
+  "patrolIdCounter" : 5,
+  "demandIdCounter" : 4
+}

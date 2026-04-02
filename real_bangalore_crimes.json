@@ -1,0 +1,254 @@
+{
+  "incidents": [
+    {
+      "externalId": "BLR-2026-001",
+      "incidentType": "theft",
+      "description": "Two-wheeler stolen from MG Road residential area",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T14:30:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-002",
+      "incidentType": "burglary",
+      "description": "House break-in at Indiranagar, jewelry and electronics stolen",
+      "latitude": 12.9716,
+      "longitude": 77.6412,
+      "severity": "CRITICAL",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T02:15:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-003",
+      "incidentType": "assault",
+      "description": "Street fight near Koramangala market, multiple injuries reported",
+      "latitude": 12.9352,
+      "longitude": 77.6245,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T19:45:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-004",
+      "incidentType": "cyber-fraud",
+      "description": "OTP-based SIM swap fraud, account compromised",
+      "latitude": 12.9689,
+      "longitude": 77.5968,
+      "severity": "MEDIUM",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T11:20:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-005",
+      "incidentType": "hit-and-run",
+      "description": "Two-wheeler hit pedestrian on Whitefield Road, victim admitted to hospital",
+      "latitude": 12.9698,
+      "longitude": 77.7499,
+      "severity": "CRITICAL",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T08:10:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-006",
+      "incidentType": "robbery",
+      "description": "Chain snatching near Chickpete Gold market",
+      "latitude": 12.9627,
+      "longitude": 77.5866,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T17:30:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-007",
+      "incidentType": "theft",
+      "description": "Mobile phone snatching at Silk Board Junction bus stop",
+      "latitude": 12.9352,
+      "longitude": 77.6412,
+      "severity": "MEDIUM",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T16:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-008",
+      "incidentType": "eve-teasing",
+      "description": "Sexual harassment complaint from UB City area",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "severity": "MEDIUM",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T18:45:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-009",
+      "incidentType": "cheating",
+      "description": "Property fraud case - fake ownership documents used in real estate deal",
+      "latitude": 12.9789,
+      "longitude": 77.6234,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T10:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-010",
+      "incidentType": "drunk-driving",
+      "description": "Rash and drunk driving incident on Outer Ring Road, vehicle impounded",
+      "latitude": 12.9537,
+      "longitude": 77.6429,
+      "severity": "MEDIUM",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T23:20:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-011",
+      "incidentType": "pickpocketing",
+      "description": "Wallet stolen from passenger at KR Market crowded area",
+      "latitude": 12.9627,
+      "longitude": 77.5866,
+      "severity": "LOW",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T12:30:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-012",
+      "incidentType": "vehicle-theft",
+      "description": "Car stolen from Marathahalli apartment complex parking",
+      "latitude": 12.9698,
+      "longitude": 77.7499,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T03:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-013",
+      "incidentType": "domestic-violence",
+      "description": "Physical assault reported in Banashankari residential area",
+      "latitude": 12.9526,
+      "longitude": 77.5703,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T20:15:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-014",
+      "incidentType": "drug-smuggling",
+      "description": "Ganja seized in raid near Yeshwanthpur railway station",
+      "latitude": 12.9869,
+      "longitude": 77.5722,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T06:45:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-015",
+      "incidentType": "murder",
+      "description": "Homicide case reported in Jnanabharathi area, victim critically injured",
+      "latitude": 12.8744,
+      "longitude": 77.5891,
+      "severity": "CRITICAL",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T21:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-016",
+      "incidentType": "forgery",
+      "description": "Forged bank cheques detected in Ramamurthy Nagar",
+      "latitude": 12.9959,
+      "longitude": 77.6412,
+      "severity": "MEDIUM",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T09:30:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-017",
+      "incidentType": "stalking",
+      "description": "Cyber stalking reported - threatening messages via social media",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "severity": "MEDIUM",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T13:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-018",
+      "incidentType": "riot",
+      "description": "Large gathering turned violent near Town Hall area",
+      "latitude": 12.9730,
+      "longitude": 77.6177,
+      "severity": "CRITICAL",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T15:30:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-019",
+      "incidentType": "extortion",
+      "description": "Small shop owner threatened for protection money in Bengaluru",
+      "latitude": 12.9627,
+      "longitude": 77.5866,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T11:45:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-020",
+      "incidentType": "arson",
+      "description": "Suspicious fire in warehouse near industrial area",
+      "latitude": 12.8844,
+      "longitude": 77.6129,
+      "severity": "CRITICAL",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T04:20:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-021",
+      "incidentType": "rape",
+      "description": "Criminal assault reported, victim taken to hospital",
+      "latitude": 12.9789,
+      "longitude": 77.6234,
+      "severity": "CRITICAL",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T22:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-022",
+      "incidentType": "mugging",
+      "description": "Tourist mugged and robbed near Vidhana Soudha",
+      "latitude": 12.9789,
+      "longitude": 77.5906,
+      "severity": "HIGH",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T19:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-023",
+      "incidentType": "hacking",
+      "description": "ATM card cloning detected at bank branch",
+      "latitude": 12.9699,
+      "longitude": 77.6234,
+      "severity": "MEDIUM",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T07:15:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-024",
+      "incidentType": "kidnapping",
+      "description": "Minor reported missing from Kumara Park area",
+      "latitude": 12.9775,
+      "longitude": 77.5802,
+      "severity": "CRITICAL",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T14:00:00+05:30"
+    },
+    {
+      "externalId": "BLR-2026-025",
+      "incidentType": "theft",
+      "description": "Bicycle stolen from apartment complex in Hebbal",
+      "latitude": 12.9920,
+      "longitude": 77.5885,
+      "severity": "LOW",
+      "status": "PENDING",
+      "eventTimestamp": "2026-03-27T05:30:00+05:30"
+    }
+  ]
+}

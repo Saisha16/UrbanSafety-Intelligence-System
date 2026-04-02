@@ -1,0 +1,214 @@
+{
+  "incidents": [
+    {
+      "externalId": "BLRP-2026-0847",
+      "incidentType": "THEFT",
+      "description": "Two-wheeler theft from Koramangala Main Street. Black Hero Splendor bike, registration number KA-51-AB-1234",
+      "latitude": 12.9353,
+      "longitude": 77.6245,
+      "severity": "HIGH",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T14:30:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0848",
+      "incidentType": "BURGLARY",
+      "description": "House burglary in Indiranagar. Valuables stolen, window damaged. Residents returned at 18:00 hours",
+      "latitude": 12.9716,
+      "longitude": 77.6412,
+      "severity": "HIGH",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T13:45:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0849",
+      "incidentType": "ROBBERY",
+      "description": "Dacoity attempt on MG Road near Sri Krishna restaurant. Armed men tried to loot ATM. Police arrived at scene",
+      "latitude": 12.9336,
+      "longitude": 77.5898,
+      "severity": "CRITICAL",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T19:20:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0850",
+      "incidentType": "AUTO_THEFT",
+      "description": "Car theft from Whitefield parking lot. White Honda City, registration KA-51-CD-5678",
+      "latitude": 12.9698,
+      "longitude": 77.7499,
+      "severity": "HIGH",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T12:15:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0851",
+      "incidentType": "ASSAULT",
+      "description": "Physical assault near Forum mall. Fight broke out between groups, victim hospitalized",
+      "latitude": 12.9725,
+      "longitude": 77.6412,
+      "severity": "CRITICAL",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T21:00:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0852",
+      "incidentType": "CYBERCRIME",
+      "description": "Online fraud - fake e-commerce transaction. Customer lost Rs. 45,000. Complaint filed under IPC 420",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "severity": "MEDIUM",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T10:30:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0853",
+      "incidentType": "PICK_POCKETING",
+      "description": "Wallet pickpocketing incident at Majestic bus station. Wallet containing cash and ID cards stolen",
+      "latitude": 12.9489,
+      "longitude": 77.5618,
+      "severity": "MEDIUM",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T15:45:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0854",
+      "incidentType": "VANDALISM",
+      "description": "Street vandalism - public bus damaged near Vidhana Soudha. Windows broken, seats damaged during night hours",
+      "latitude": 12.9352,
+      "longitude": 77.5865,
+      "severity": "LOW",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T22:30:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0855",
+      "incidentType": "TRESPASSING",
+      "description": "Unauthorized entry into construction site near Sarjapur Road. Group of trespassers detained",
+      "latitude": 12.8668,
+      "longitude": 77.6412,
+      "severity": "LOW",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T16:20:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0856",
+      "incidentType": "DRUNK_DRIVING",
+      "description": "DUI stop on Outer Ring Road. Driver under influence, vehicle seized, license suspended",
+      "latitude": 12.9550,
+      "longitude": 77.5500,
+      "severity": "MEDIUM",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T23:10:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0857",
+      "incidentType": "CHAIN_SNATCHING",
+      "description": "Gold chain snatching from elderly woman at Ulsoor Junction. Assailant on motorcycle fled the scene",
+      "latitude": 12.9741,
+      "longitude": 77.6036,
+      "severity": "MEDIUM",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T18:50:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0858",
+      "incidentType": "DRUG_PEDDLING",
+      "description": "Drug trafficking bust in Yeshwanthpur area. 200g MDMA and other contraband seized. Two arrested",
+      "latitude": 13.0012,
+      "longitude": 77.5706,
+      "severity": "HIGH",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T17:30:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0859",
+      "incidentType": "FORGERY",
+      "description": "Forged check case filed at HSR Layout police station. Amount Rs. 2,00,000. Suspect identified",
+      "latitude": 12.9324,
+      "longitude": 77.6245,
+      "severity": "HIGH",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T11:00:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0860",
+      "incidentType": "STALKING",
+      "description": "Female harassment complaint at Hinjewadi Tech Park. Unknown male repeatedly following victim, FIR lodged",
+      "latitude": 12.8383,
+      "longitude": 77.5005,
+      "severity": "MEDIUM",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T09:45:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0861",
+      "incidentType": "PARKING_VIOLATION_ABUSE",
+      "description": "Verbal altercation over parking space in Ittamadu. Police intervention needed, traffic warning issued",
+      "latitude": 12.9436,
+      "longitude": 77.6436,
+      "severity": "LOW",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T14:00:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0862",
+      "incidentType": "LAND_DISPUTE",
+      "description": "Boundary dispute between neighbors in Marathahalli. Property demarcation conflict, legal notice issued",
+      "latitude": 12.9724,
+      "longitude": 77.7059,
+      "severity": "LOW",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T08:30:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0863",
+      "incidentType": "RASH_DRIVING",
+      "description": "Rash driving complaint near Silk Board Junction. Auto-rickshaw involved in near-miss accident",
+      "latitude": 12.9225,
+      "longitude": 77.5864,
+      "severity": "MEDIUM",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T13:20:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0864",
+      "incidentType": "SHOPLIFTING",
+      "description": "Shoplifting incident at Spencer's Supermarket, Indiranagar. Suspect detained, Rs.8,500 worth goods",
+      "latitude": 12.9769,
+      "longitude": 77.6547,
+      "severity": "LOW",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T16:40:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0865",
+      "incidentType": "EXTORTION",
+      "description": "Business extortion threat via email. Threat of property damage received by restaurant owner, investigation ongoing",
+      "latitude": 12.9352,
+      "longitude": 77.6245,
+      "severity": "HIGH",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T15:00:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0866",
+      "incidentType": "TRAFFIC_VIOLATION",
+      "description": "Aggressive traffic violation at Cubbon Road Signal. Vehicles racing, traffic control police intervened",
+      "latitude": 12.9313,
+      "longitude": 77.5984,
+      "severity": "LOW",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T17:15:00Z"
+    },
+    {
+      "externalId": "BLRP-2026-0867",
+      "incidentType": "IDENTITY_THEFT",
+      "description": "Identity theft case - unknown person opened bank account using victim's documents",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "severity": "HIGH",
+      "status": "OPEN",
+      "eventTimestamp": "2026-03-27T12:00:00Z"
+    }
+  ]
+}

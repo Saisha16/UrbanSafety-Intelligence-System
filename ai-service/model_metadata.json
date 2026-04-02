@@ -1,0 +1,38 @@
+{
+  "features": [
+    "latitude",
+    "longitude",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "is_night",
+    "is_evening",
+    "location_crime_density",
+    "grid_crime_count"
+  ],
+  "crime_type_map": {
+    "theft": 1,
+    "snatching": 2,
+    "burglary": 3,
+    "robbery": 4,
+    "assault": 5,
+    "vandalism": 6,
+    "eve-teasing": 7,
+    "fraud": 8,
+    "disorder": 9,
+    "other": 0
+  },
+  "severity_map": {
+    "low": 1,
+    "medium": 2,
+    "high": 3
+  },
+  "grid_size": 0.01,
+  "training_date": "2026-03-19T21:06:56.451815",
+  "training_samples": 800,
+  "test_samples": 200,
+  "test_rmse": 0.8096781291883182,
+  "test_r2": -0.2042778730392456,
+  "model_version": "1.0_bangalore"
+}

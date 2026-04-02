@@ -1,0 +1,25 @@
+{
+  "source": "your-feed-source",
+  "ingest_url": "http://localhost:8080/api/incidents/ingest",
+  "ingestion_key": "dev-ingestion-key",
+  "poll_interval_seconds": 60,
+  "timeout_seconds": 20,
+  "max_retries": 3,
+  "retry_initial_delay_seconds": 2,
+  "retry_max_delay_seconds": 30,
+  "dead_letter_file": "external_feed_dead_letter.jsonl",
+  "format": "auto",
+  "feed_url": "",
+  "feed_file": "real_bangalore_crimes.json",
+  "batch_size": 200,
+  "field_map": {
+    "externalId": "externalId",
+    "incidentType": "incidentType",
+    "description": "description",
+    "latitude": "latitude",
+    "longitude": "longitude",
+    "severity": "severity",
+    "status": "status",
+    "eventTimestamp": "eventTimestamp"
+  }
+}

@@ -1,0 +1,267 @@
+.dashboard {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+}
+
+.loading {
+    text-align: center;
+    font-size: 24px;
+    padding: 100px;
+}
+
+/* Risk Card */
+.risk-card {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.risk-score-large {
+    font-size: 72px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.risk-level {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.confidence {
+    color: #666;
+    margin: 10px 0;
+}
+
+.timestamp {
+    color: #999;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+/* Explanation Card */
+.explanation-card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    grid-column: span 2;
+}
+
+.model-info {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.feature-importance {
+    margin-top: 20px;
+}
+
+.feature-item {
+    background: #f5f5f5;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border-left: 3px solid #4CAF50;
+}
+
+.feature-name {
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.feature-impact {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.feature-desc {
+    color: #666;
+    margin: 5px 0 0 0;
+    font-size: 14px;
+}
+
+/* Factors Card */
+.factors-card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.factors-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.factors-list li {
+    padding: 10px;
+    margin: 5px 0;
+    background: #fff3cd;
+    border-left: 4px solid #ffc107;
+    border-radius: 3px;
+}
+
+/* Route Card */
+.route-card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    grid-column: span 2;
+}
+
+.algo-info {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.routes-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.route-option {
+    border: 2px solid #e0e0e0;
+    padding: 15px;
+    border-radius: 8px;
+    transition: all 0.3s;
+}
+
+.route-option:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.route-option.recommended {
+    border-color: #4CAF50;
+    background: #f1f8f4;
+}
+
+.route-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.recommended-badge {
+    background: #4CAF50;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 12px;
+}
+
+.route-details {
+    display: flex;
+    gap: 15px;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+
+.route-details span {
+    font-size: 14px;
+}
+
+.route-desc {
+    color: #666;
+    margin: 10px 0;
+}
+
+.safety-features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.feature-badge {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+}
+
+/* Trends Card */
+.trends-card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    grid-column: span 2;
+}
+
+.trend-insights {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f5f5f5;
+    border-radius: 5px;
+}
+
+.trend-insights p {
+    margin: 5px 0;
+}
+
+/* Recommendations Section */
+.recommendations-section {
+    grid-column: span 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.recommendations-card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.recommendations-card ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recommendations-card li {
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 5px;
+}
+
+.user-rec li {
+    background: #e3f2fd;
+    border-left: 4px solid #2196F3;
+}
+
+.authority-rec li {
+    background: #fff3e0;
+    border-left: 4px solid #ff9800;
+}
+
+@media (max-width: 768px) {
+    .dashboard {
+        grid-template-columns: 1fr;
+    }
+    
+    .explanation-card,
+    .route-card,
+    .trends-card,
+    .recommendations-section {
+        grid-column: span 1;
+    }
+    
+    .recommendations-section {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,139 @@
+.location-search-container {
+  position: relative;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.location-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: #254d72;
+  font-size: 14px;
+}
+
+.search-input-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.location-search-input {
+  width: 100%;
+  padding: 11px 36px 11px 12px;
+  border: 1.5px solid #c7d7e6;
+  border-radius: 10px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+  background: #ffffff;
+}
+
+.location-search-input:focus {
+  outline: none;
+  border-color: #2b7eb6;
+  box-shadow: 0 0 0 3px rgba(43, 126, 182, 0.15);
+}
+
+.search-icon {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.location-dropdown {
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #d4e0eb;
+  border-radius: 10px;
+  box-shadow: 0 10px 22px rgba(20, 57, 87, 0.16);
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 3000;
+  animation: slideDown 0.2s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.location-dropdown-item {
+  padding: 12px 15px;
+  cursor: pointer;
+  border-bottom: 1px solid #edf2f7;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background-color 0.2s ease;
+}
+
+.location-dropdown-item:last-child {
+  border-bottom: none;
+}
+
+.location-dropdown-item:hover {
+  background-color: #eef7ff;
+}
+
+.location-current-item {
+  background: #f0f8ff;
+  border-bottom: 1px solid #d9e9f7;
+}
+
+.location-current-item .location-name {
+  color: #0f5f92;
+}
+
+.location-dropdown-status {
+  padding: 10px 12px;
+  font-size: 12px;
+  color: #5f6d7a;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.location-icon {
+  font-size: 16px;
+  flex-shrink: 0;
+}
+
+.location-name {
+  flex: 1;
+  font-weight: 600;
+  color: #163d5e;
+}
+
+.location-coords {
+  font-size: 12px;
+  color: #666;
+  font-family: monospace;
+}
+
+.location-dropdown::-webkit-scrollbar {
+  width: 6px;
+}
+
+.location-dropdown::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+}
+
+.location-dropdown::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 3px;
+}
+
+.location-dropdown::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

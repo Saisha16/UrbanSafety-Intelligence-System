@@ -1,0 +1,11 @@
+date,time,latitude,longitude,crime_type,severity,location_name
+2024-01-15,14:30,12.9716,77.5946,theft,medium,MG Road
+2024-01-16,22:45,12.9869,77.6009,robbery,high,Shivajinagar
+2024-01-17,09:15,12.9767,77.5721,assault,medium,Majestic
+2024-01-18,23:00,12.9816,77.6094,snatching,high,Commercial Street
+2024-01-20,03:15,12.9698,77.7500,burglary,medium,Whitefield
+2024-01-22,18:30,12.9612,77.5732,vandalism,low,KR Market
+2024-01-25,21:00,12.8906,77.6041,theft,medium,Bannerghatta Road
+2024-01-28,02:45,12.9767,77.5721,robbery,high,Majestic
+2024-02-01,15:20,12.9716,77.5946,pickpocketing,medium,MG Road
+2024-02-03,23:30,12.9869,77.6009,assault,high,Shivajinagar

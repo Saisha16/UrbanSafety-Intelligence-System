@@ -1,0 +1,1001 @@
+date,time,latitude,longitude,crime_type,severity,location_name
+2025-09-09,11:36,12.963231,77.580584,vandalism,low,Chickpet
+2025-09-09,14:09,12.915967,77.635702,theft,low,Hosur Road
+2025-09-09,16:21,12.849178,77.659439,theft,medium,Electronic City
+2025-09-09,17:11,12.925991,77.585188,theft,low,Jayanagar
+2025-09-09,17:14,12.934065,77.626666,theft,medium,Koramangala
+2025-09-10,10:04,12.911262,77.638027,robbery,medium,Hosur Road
+2025-09-10,19:29,12.962891,77.693086,eve-teasing,medium,Marathahalli
+2025-09-10,22:19,12.974293,77.530806,snatching,high,Vijayanagar
+2025-09-12,05:55,12.980191,77.611136,theft,low,Commercial Street
+2025-09-12,07:09,12.975257,77.614865,assault,high,MG Road
+2025-09-12,08:58,12.969017,77.753119,snatching,high,Whitefield
+2025-09-12,09:48,12.968621,77.533097,burglary,low,Vijayanagar
+2025-09-12,10:49,12.923544,77.677859,burglary,high,Bellandur
+2025-09-12,17:53,12.975262,77.641232,theft,medium,Indiranagar
+2025-09-12,22:31,12.979416,77.571365,theft,medium,Majestic
+2025-09-13,14:08,13.096929,77.596843,fraud,low,Yelahanka
+2025-09-13,14:33,12.965954,77.754598,snatching,high,Whitefield
+2025-09-13,17:01,12.978014,77.605457,eve-teasing,medium,Brigade Road
+2025-09-13,19:14,12.928563,77.679198,theft,low,Bellandur
+2025-09-13,19:40,12.959916,77.701169,theft,medium,Marathahalli
+2025-09-14,13:40,12.968677,77.581315,fraud,medium,Chickpet
+2025-09-14,16:55,12.938359,77.623551,fraud,low,Koramangala
+2025-09-14,19:54,12.976983,77.616693,eve-teasing,medium,MG Road
+2025-09-14,20:36,12.938608,77.628974,theft,medium,Koramangala
+2025-09-15,05:01,12.92497,77.544138,theft,low,Banashankari
+2025-09-15,17:17,12.971214,77.64033,vandalism,high,Indiranagar
+2025-09-15,21:01,12.976232,77.612348,snatching,low,Brigade Road
+2025-09-15,21:57,12.911968,77.612701,burglary,low,BTM Layout
+2025-09-16,06:02,12.91233,77.64562,burglary,high,HSR Layout
+2025-09-16,07:28,12.915788,77.649035,theft,low,HSR Layout
+2025-09-16,08:48,12.981241,77.57148,fraud,medium,Majestic
+2025-09-16,14:34,12.921241,77.612272,eve-teasing,low,BTM Layout
+2025-09-16,16:42,12.966143,77.575078,burglary,high,Chickpet
+2025-09-16,20:51,12.975839,77.637709,eve-teasing,low,Indiranagar
+2025-09-16,21:09,12.910537,77.635997,snatching,high,Hosur Road
+2025-09-16,21:16,12.975403,77.609771,robbery,low,MG Road
+2025-09-17,05:21,12.90945,77.583824,snatching,low,JP Nagar
+2025-09-17,07:41,13.03021,77.535268,assault,low,Yeshwanthpur
+2025-09-17,11:06,12.978707,77.611035,snatching,high,Commercial Street
+2025-09-17,12:24,12.911314,77.638345,snatching,medium,Hosur Road
+2025-09-17,12:25,12.9955,77.551737,vandalism,low,Rajaji Nagar
+2025-09-17,15:42,12.957237,77.701664,snatching,high,Marathahalli
+2025-09-17,16:12,12.981345,77.576396,snatching,high,Majestic
+2025-09-17,16:35,12.842703,77.663537,robbery,high,Electronic City
+2025-09-17,17:10,12.987642,77.557812,theft,medium,Rajajinagar
+2025-09-17,19:01,12.916796,77.642741,robbery,high,Hosur Road
+2025-09-17,21:23,12.929989,77.548636,burglary,medium,Banashankari
+2025-09-18,10:04,13.097636,77.593295,theft,low,Yelahanka
+2025-09-18,11:29,13.026562,77.53515,snatching,medium,Yeshwanthpur
+2025-09-18,12:04,12.937396,77.629104,theft,medium,Koramangala
+2025-09-18,13:53,12.984869,77.597067,theft,high,Shivajinagar
+2025-09-18,17:54,12.975986,77.636507,snatching,medium,Indiranagar
+2025-09-18,18:22,13.027416,77.540326,snatching,low,Yeshwanthpur
+2025-09-18,19:35,12.985855,77.605298,fraud,medium,Shivajinagar
+2025-09-19,09:58,12.91072,77.638398,theft,high,Hosur Road
+2025-09-19,19:56,12.910834,77.640707,snatching,high,HSR Layout
+2025-09-19,20:33,12.968736,77.750523,theft,medium,Whitefield
+2025-09-19,21:41,12.986328,77.602027,burglary,high,Shivajinagar
+2025-09-19,22:49,12.905116,77.582084,theft,medium,JP Nagar
+2025-09-20,02:48,12.924829,77.583029,assault,high,Jayanagar
+2025-09-20,07:08,12.904056,77.580477,theft,medium,JP Nagar
+2025-09-20,09:49,12.990446,77.604342,burglary,high,Shivajinagar
+2025-09-20,10:45,12.989503,77.598665,burglary,high,Shivajinagar
+2025-09-20,12:16,13.004882,77.575044,snatching,medium,Malleshwaram
+2025-09-20,16:39,13.02311,77.540406,theft,low,Yeshwanthpur
+2025-09-20,20:52,12.996314,77.559435,burglary,high,Rajaji Nagar
+2025-09-20,21:24,12.937983,77.628783,robbery,high,Koramangala
+2025-09-21,06:18,12.992486,77.559515,snatching,medium,Rajaji Nagar
+2025-09-21,10:32,12.971657,77.525983,theft,medium,Vijayanagar
+2025-09-21,10:52,12.924065,77.676473,robbery,medium,Bellandur
+2025-09-21,17:13,12.92145,77.674003,theft,medium,Bellandur
+2025-09-21,18:01,12.924258,77.54631,theft,medium,Banashankari
+2025-09-21,18:14,12.987891,77.602342,robbery,high,Shivajinagar
+2025-09-21,20:33,12.992359,77.557161,robbery,medium,Rajajinagar
+2025-09-22,03:23,12.90813,77.582522,theft,medium,JP Nagar
+2025-09-22,06:35,13.100279,77.596999,vandalism,high,Yelahanka
+2025-09-22,17:45,12.91142,77.649093,burglary,high,HSR Layout
+2025-09-22,18:13,13.009042,77.571296,theft,high,Malleshwaram
+2025-09-22,22:46,12.849586,77.664278,burglary,high,Electronic City
+2025-09-23,05:08,12.9779,77.609557,vandalism,medium,Commercial Street
+2025-09-23,05:45,12.963585,77.568604,theft,high,KR Market
+2025-09-23,07:10,12.970057,77.575102,assault,medium,Chickpet
+2025-09-23,09:57,12.969936,77.611181,assault,medium,Brigade Road
+2025-09-23,12:07,12.963287,77.570134,robbery,medium,KR Market
+2025-09-23,14:20,12.909851,77.643028,theft,high,HSR Layout
+2025-09-23,18:24,13.024668,77.535099,robbery,medium,Yeshwanthpur
+2025-09-23,19:18,13.030733,77.541506,theft,low,Yeshwanthpur
+2025-09-23,19:28,12.894645,77.604777,vandalism,medium,Bannerghatta Road
+2025-09-24,04:14,12.919713,77.611333,theft,medium,BTM Layout
+2025-09-24,06:39,12.918769,77.634494,vandalism,low,Hosur Road
+2025-09-24,06:57,13.000654,77.577391,vandalism,low,Malleshwaram
+2025-09-24,10:07,12.924888,77.582448,snatching,medium,Jayanagar
+2025-09-24,13:13,12.981718,77.608376,snatching,high,Commercial Street
+2025-09-24,18:17,12.981404,77.57559,vandalism,low,Majestic
+2025-09-24,18:21,12.976503,77.5676,assault,medium,Majestic
+2025-09-24,19:47,12.97486,77.531387,vandalism,low,Vijayanagar
+2025-09-25,01:13,12.924933,77.55204,assault,medium,Banashankari
+2025-09-25,12:20,12.89307,77.607386,theft,high,Bannerghatta Road
+2025-09-25,14:51,12.905558,77.584296,robbery,low,JP Nagar
+2025-09-25,21:52,12.964406,77.574104,vandalism,medium,KR Market
+2025-09-26,08:34,12.91259,77.641244,theft,low,Hosur Road
+2025-09-26,10:05,13.004995,77.575771,theft,low,Malleshwaram
+2025-09-26,10:34,12.956203,77.695361,snatching,low,Marathahalli
+2025-09-26,12:57,12.977944,77.606215,snatching,high,Brigade Road
+2025-09-26,14:38,12.95841,77.700635,theft,medium,Marathahalli
+2025-09-26,15:10,12.957434,77.568658,theft,medium,KR Market
+2025-09-27,10:06,13.031639,77.537051,assault,medium,Yeshwanthpur
+2025-09-27,10:44,12.974188,77.605783,burglary,low,Brigade Road
+2025-09-27,16:30,12.893533,77.603134,theft,low,Bannerghatta Road
+2025-09-27,17:58,12.968119,77.748854,vandalism,medium,Whitefield
+2025-09-27,20:05,12.98207,77.607133,burglary,medium,Commercial Street
+2025-09-28,09:07,12.974149,77.611403,theft,low,Brigade Road
+2025-09-28,12:10,12.977376,77.568688,burglary,low,Majestic
+2025-09-28,22:09,13.032573,77.53584,burglary,high,Yeshwanthpur
+2025-09-29,09:27,12.968014,77.643747,eve-teasing,medium,Indiranagar
+2025-09-29,17:58,12.971587,77.642135,fraud,medium,Indiranagar
+2025-09-29,19:53,12.890658,77.608917,robbery,medium,Bannerghatta Road
+2025-09-29,21:37,12.921786,77.549631,theft,high,Banashankari
+2025-09-30,09:28,12.911108,77.645751,snatching,medium,HSR Layout
+2025-09-30,12:55,12.962966,77.574189,snatching,low,KR Market
+2025-09-30,19:02,12.968224,77.581143,burglary,high,Chickpet
+2025-09-30,19:15,12.889923,77.603622,burglary,high,Bannerghatta Road
+2025-10-01,02:47,12.967059,77.642877,theft,medium,Indiranagar
+2025-10-01,08:09,12.904343,77.59007,burglary,medium,JP Nagar
+2025-10-01,08:52,12.98393,77.601961,snatching,high,Shivajinagar
+2025-10-01,09:05,12.982138,77.606164,robbery,high,Commercial Street
+2025-10-01,09:37,12.981408,77.573255,theft,medium,Majestic
+2025-10-01,09:44,12.985999,77.612648,snatching,low,Commercial Street
+2025-10-01,09:57,12.917213,77.61137,burglary,high,BTM Layout
+2025-10-01,17:44,12.915992,77.642294,theft,low,HSR Layout
+2025-10-01,20:28,12.957028,77.575111,burglary,medium,KR Market
+2025-10-01,22:54,12.911326,77.640147,theft,low,Hosur Road
+2025-10-01,22:58,12.965913,77.578923,theft,low,Chickpet
+2025-10-02,10:40,12.972191,77.610737,assault,high,MG Road
+2025-10-02,14:09,12.985682,77.600149,theft,medium,Shivajinagar
+2025-10-02,16:14,12.970611,77.575114,burglary,low,Chickpet
+2025-10-02,17:27,12.917865,77.639333,burglary,high,Hosur Road
+2025-10-02,19:22,12.962945,77.56887,theft,medium,KR Market
+2025-10-02,21:11,12.980683,77.57077,fraud,medium,Majestic
+2025-10-03,06:30,12.986774,77.558559,theft,medium,Rajajinagar
+2025-10-03,10:34,12.849963,77.660969,snatching,high,Electronic City
+2025-10-03,10:49,12.994952,77.554399,snatching,medium,Rajaji Nagar
+2025-10-03,18:06,12.972984,77.612942,theft,medium,MG Road
+2025-10-03,18:09,13.096992,77.599289,snatching,high,Yelahanka
+2025-10-04,13:30,12.98406,77.613149,robbery,low,Commercial Street
+2025-10-04,13:34,13.023712,77.537513,theft,high,Yeshwanthpur
+2025-10-04,15:36,12.92639,77.675901,eve-teasing,medium,Bellandur
+2025-10-04,17:35,12.926502,77.586538,burglary,medium,Jayanagar
+2025-10-04,19:24,12.970092,77.528823,burglary,high,Vijayanagar
+2025-10-05,09:52,12.970402,77.617035,theft,high,MG Road
+2025-10-05,12:41,12.96454,77.573388,theft,medium,KR Market
+2025-10-05,13:23,12.98328,77.603768,snatching,medium,Shivajinagar
+2025-10-05,14:20,12.842986,77.659861,snatching,high,Electronic City
+2025-10-05,15:47,12.984126,77.611616,vandalism,medium,Commercial Street
+2025-10-05,16:15,12.964056,77.583549,theft,low,Chickpet
+2025-10-05,20:14,12.911677,77.605511,theft,medium,BTM Layout
+2025-10-05,20:38,12.972568,77.608054,assault,medium,Brigade Road
+2025-10-05,22:25,13.025096,77.533898,theft,medium,Yeshwanthpur
+2025-10-05,23:41,13.098777,77.598351,theft,medium,Yelahanka
+2025-10-06,08:43,12.91774,77.643807,snatching,medium,Hosur Road
+2025-10-06,10:25,12.977618,77.603597,snatching,high,Brigade Road
+2025-10-06,10:35,12.846528,77.660443,snatching,medium,Electronic City
+2025-10-06,10:50,12.963185,77.692683,theft,medium,Marathahalli
+2025-10-06,11:17,12.996361,77.560622,snatching,medium,Rajajinagar
+2025-10-06,18:44,12.969104,77.612109,burglary,low,Brigade Road
+2025-10-06,20:31,12.965531,77.576368,snatching,medium,Chickpet
+2025-10-06,20:57,12.909912,77.581322,snatching,medium,JP Nagar
+2025-10-07,12:37,12.987107,77.556022,burglary,medium,Rajaji Nagar
+2025-10-07,12:49,12.913869,77.638982,theft,high,Hosur Road
+2025-10-07,14:09,12.926791,77.674279,snatching,high,Bellandur
+2025-10-07,16:07,12.927079,77.67835,burglary,medium,Bellandur
+2025-10-07,17:13,12.927776,77.679039,snatching,medium,Bellandur
+2025-10-07,22:44,12.907023,77.58171,robbery,high,JP Nagar
+2025-10-08,02:27,12.914001,77.647572,theft,low,HSR Layout
+2025-10-08,16:39,12.931932,77.62332,theft,low,Koramangala
+2025-10-08,19:12,12.846525,77.662802,snatching,medium,Electronic City
+2025-10-08,21:59,12.982895,77.607768,snatching,high,Commercial Street
+2025-10-09,07:10,12.966828,77.644057,snatching,low,Indiranagar
+2025-10-09,07:13,13.024244,77.535921,eve-teasing,medium,Yeshwanthpur
+2025-10-09,12:26,12.954713,77.698559,snatching,high,Marathahalli
+2025-10-09,14:25,12.978463,77.614099,vandalism,low,Commercial Street
+2025-10-09,14:31,12.969057,77.636918,theft,medium,Indiranagar
+2025-10-09,18:00,12.8436,77.662966,theft,medium,Electronic City
+2025-10-09,19:31,12.985771,77.605273,theft,medium,Commercial Street
+2025-10-09,22:28,12.924614,77.579915,burglary,high,Jayanagar
+2025-10-10,16:58,12.985788,77.61056,snatching,medium,Commercial Street
+2025-10-10,19:01,12.930342,77.675174,vandalism,medium,Bellandur
+2025-10-10,20:43,12.983473,77.603669,assault,high,Shivajinagar
+2025-10-11,00:23,12.915936,77.639607,snatching,high,HSR Layout
+2025-10-11,07:49,12.988534,77.560536,burglary,high,Rajaji Nagar
+2025-10-11,16:56,12.907575,77.58075,assault,medium,JP Nagar
+2025-10-11,18:32,12.925349,77.549608,assault,medium,Banashankari
+2025-10-11,19:17,12.980603,77.573273,theft,medium,Majestic
+2025-10-11,20:33,12.973649,77.531361,robbery,medium,Vijayanagar
+2025-10-11,20:36,12.986966,77.602593,burglary,high,Shivajinagar
+2025-10-11,20:36,12.923681,77.582462,snatching,high,Jayanagar
+2025-10-12,06:55,12.919599,77.607794,assault,high,BTM Layout
+2025-10-12,08:21,12.939818,77.629001,snatching,medium,Koramangala
+2025-10-12,08:41,12.976147,77.61021,robbery,high,MG Road
+2025-10-12,10:31,12.990399,77.603687,burglary,medium,Shivajinagar
+2025-10-12,18:08,13.028385,77.540126,theft,high,Yeshwanthpur
+2025-10-12,23:50,12.974423,77.747791,vandalism,medium,Whitefield
+2025-10-13,11:18,12.96361,77.573443,fraud,low,KR Market
+2025-10-13,14:33,12.963834,77.576098,theft,medium,Chickpet
+2025-10-13,17:05,12.929105,77.549897,eve-teasing,medium,Banashankari
+2025-10-13,20:13,12.972032,77.528534,vandalism,low,Vijayanagar
+2025-10-13,21:27,12.84793,77.658139,theft,medium,Electronic City
+2025-10-14,02:22,12.911812,77.638401,theft,low,Hosur Road
+2025-10-14,15:00,12.970683,77.748841,theft,medium,Whitefield
+2025-10-14,17:21,12.926103,77.587734,robbery,medium,Jayanagar
+2025-10-14,19:58,13.097999,77.598031,vandalism,medium,Yelahanka
+2025-10-14,20:26,12.978505,77.574641,assault,low,Majestic
+2025-10-15,01:46,12.908559,77.642734,assault,high,HSR Layout
+2025-10-15,06:59,12.974392,77.605488,theft,medium,Brigade Road
+2025-10-15,10:27,12.971056,77.578771,vandalism,low,Chickpet
+2025-10-15,12:06,12.959464,77.571178,vandalism,medium,KR Market
+2025-10-15,19:06,12.964314,77.571392,theft,high,KR Market
+2025-10-15,19:50,12.916777,77.649493,theft,low,HSR Layout
+2025-10-15,19:50,12.99172,77.550874,snatching,medium,Rajajinagar
+2025-10-15,21:10,12.96768,77.745312,snatching,low,Whitefield
+2025-10-16,07:34,12.970645,77.74702,snatching,high,Whitefield
+2025-10-16,12:13,12.965175,77.575882,theft,medium,KR Market
+2025-10-16,16:22,12.906237,77.582362,burglary,high,JP Nagar
+2025-10-16,16:36,12.97019,77.613558,burglary,high,MG Road
+2025-10-16,17:00,12.977626,77.60991,eve-teasing,medium,Commercial Street
+2025-10-16,18:17,12.97175,77.619174,assault,medium,MG Road
+2025-10-16,18:55,12.930224,77.67404,burglary,low,Bellandur
+2025-10-16,19:16,12.923349,77.578907,snatching,medium,Jayanagar
+2025-10-16,20:19,12.955455,77.699718,snatching,high,Marathahalli
+2025-10-16,20:25,12.96037,77.572345,eve-teasing,medium,KR Market
+2025-10-16,21:38,12.961122,77.572171,assault,medium,KR Market
+2025-10-17,03:03,12.93045,77.676885,fraud,low,Bellandur
+2025-10-17,06:15,12.918718,77.643306,theft,medium,Hosur Road
+2025-10-17,13:36,12.912156,77.610274,snatching,low,BTM Layout
+2025-10-17,17:11,12.965873,77.57981,theft,high,Chickpet
+2025-10-17,19:33,12.921846,77.550701,snatching,medium,Banashankari
+2025-10-17,22:54,12.90696,77.581387,burglary,medium,JP Nagar
+2025-10-18,05:33,13.003124,77.570641,fraud,medium,Malleshwaram
+2025-10-18,11:34,12.958334,77.569018,theft,medium,KR Market
+2025-10-18,16:13,12.978121,77.611909,theft,medium,MG Road
+2025-10-18,17:47,12.971123,77.532269,snatching,high,Vijayanagar
+2025-10-18,18:53,12.928585,77.585681,burglary,high,Jayanagar
+2025-10-18,19:38,12.929562,77.674357,theft,low,Bellandur
+2025-10-18,19:42,12.891474,77.601211,robbery,medium,Bannerghatta Road
+2025-10-18,20:17,12.972965,77.534295,burglary,low,Vijayanagar
+2025-10-18,21:30,12.96159,77.577445,eve-teasing,high,Chickpet
+2025-10-19,08:10,12.936058,77.62499,assault,medium,Koramangala
+2025-10-19,11:54,12.992187,77.556942,vandalism,low,Rajaji Nagar
+2025-10-19,13:32,12.970286,77.746378,vandalism,low,Whitefield
+2025-10-19,13:56,12.937421,77.626727,snatching,medium,Koramangala
+2025-10-19,15:57,12.912786,77.639564,eve-teasing,high,Hosur Road
+2025-10-19,19:08,12.99366,77.558623,snatching,high,Rajaji Nagar
+2025-10-19,20:34,12.964319,77.57165,theft,high,KR Market
+2025-10-20,07:00,12.988936,77.602248,snatching,high,Shivajinagar
+2025-10-20,17:58,12.908934,77.589003,theft,medium,JP Nagar
+2025-10-20,18:24,13.029914,77.541408,eve-teasing,medium,Yeshwanthpur
+2025-10-20,23:18,13.103317,77.598509,theft,medium,Yelahanka
+2025-10-21,06:54,12.96461,77.571258,snatching,medium,KR Market
+2025-10-21,08:53,12.995536,77.551177,theft,high,Rajaji Nagar
+2025-10-21,09:27,12.968628,77.749025,fraud,medium,Whitefield
+2025-10-21,15:38,12.972683,77.568885,theft,medium,Majestic
+2025-10-21,19:34,12.993829,77.559788,theft,high,Rajaji Nagar
+2025-10-21,19:58,12.978335,77.569455,burglary,high,Majestic
+2025-10-22,09:43,12.919838,77.612557,assault,medium,BTM Layout
+2025-10-22,11:41,12.975233,77.607372,snatching,low,Brigade Road
+2025-10-22,14:23,12.843655,77.657493,snatching,high,Electronic City
+2025-10-22,18:00,12.925778,77.550261,snatching,low,Banashankari
+2025-10-22,20:10,12.971973,77.644382,theft,medium,Indiranagar
+2025-10-22,22:31,12.933248,77.627948,eve-teasing,low,Koramangala
+2025-10-22,23:28,12.973239,77.525583,theft,medium,Vijayanagar
+2025-10-22,23:53,12.972037,77.611984,eve-teasing,low,MG Road
+2025-10-23,07:38,12.970347,77.640816,theft,medium,Indiranagar
+2025-10-23,15:32,12.98686,77.557616,vandalism,medium,Rajaji Nagar
+2025-10-23,18:44,12.996468,77.557571,assault,medium,Rajaji Nagar
+2025-10-23,19:22,12.975225,77.57396,theft,medium,Majestic
+2025-10-23,21:20,12.969385,77.527682,theft,high,Vijayanagar
+2025-10-23,21:21,12.844083,77.663049,eve-teasing,medium,Electronic City
+2025-10-23,22:42,13.100955,77.5933,eve-teasing,medium,Yelahanka
+2025-10-24,09:55,12.973938,77.611028,theft,low,MG Road
+2025-10-24,17:02,12.972471,77.749032,theft,medium,Whitefield
+2025-10-24,20:20,12.991114,77.554486,assault,low,Rajajinagar
+2025-10-25,00:20,13.025534,77.538253,snatching,high,Yeshwanthpur
+2025-10-25,05:35,12.976533,77.642458,theft,medium,Indiranagar
+2025-10-25,17:04,12.889341,77.603669,theft,high,Bannerghatta Road
+2025-10-25,18:01,12.910484,77.639342,theft,medium,Hosur Road
+2025-10-25,19:46,12.977488,77.606921,snatching,low,Commercial Street
+2025-10-25,19:59,12.91986,77.614757,theft,medium,BTM Layout
+2025-10-25,21:05,12.965606,77.577445,assault,low,KR Market
+2025-10-26,05:31,13.105278,77.59475,snatching,low,Yelahanka
+2025-10-26,09:20,12.931465,77.628802,burglary,high,Koramangala
+2025-10-26,20:25,12.935365,77.627948,eve-teasing,medium,Koramangala
+2025-10-26,20:27,12.986766,77.552466,theft,medium,Rajaji Nagar
+2025-10-27,09:03,12.960103,77.694277,assault,medium,Marathahalli
+2025-10-27,14:40,12.958658,77.574635,theft,medium,KR Market
+2025-10-27,18:06,12.926205,77.674283,burglary,low,Bellandur
+2025-10-27,18:26,12.895535,77.608243,theft,medium,Bannerghatta Road
+2025-10-27,19:20,12.993545,77.559962,burglary,medium,Rajaji Nagar
+2025-10-27,20:11,12.917625,77.637116,snatching,medium,Hosur Road
+2025-10-27,22:18,12.970117,77.611991,theft,medium,MG Road
+2025-10-28,03:58,12.844514,77.661555,vandalism,low,Electronic City
+2025-10-28,18:10,12.913369,77.644085,vandalism,medium,HSR Layout
+2025-10-28,19:43,13.103306,77.595596,theft,high,Yelahanka
+2025-10-28,21:49,13.006702,77.571297,fraud,low,Malleshwaram
+2025-10-28,22:16,12.92888,77.552051,robbery,high,Banashankari
+2025-10-29,16:14,12.969799,77.57773,theft,low,Chickpet
+2025-10-30,06:14,13.099852,77.595379,assault,high,Yelahanka
+2025-10-30,07:34,12.916224,77.649323,snatching,high,HSR Layout
+2025-10-30,11:45,12.91466,77.638617,theft,medium,Hosur Road
+2025-10-30,12:57,12.848083,77.656797,snatching,medium,Electronic City
+2025-10-30,18:12,12.968524,77.640319,robbery,high,Indiranagar
+2025-10-30,19:14,12.914209,77.605683,snatching,medium,BTM Layout
+2025-10-30,20:28,12.923714,77.546159,theft,medium,Banashankari
+2025-10-30,22:39,12.927522,77.579987,assault,medium,Jayanagar
+2025-10-31,09:49,12.934757,77.621043,fraud,medium,Koramangala
+2025-10-31,13:40,12.969272,77.751881,snatching,high,Whitefield
+2025-10-31,19:54,12.916446,77.645651,snatching,high,HSR Layout
+2025-10-31,19:59,13.028654,77.540755,robbery,high,Yeshwanthpur
+2025-11-01,06:34,13.005361,77.568812,theft,low,Malleshwaram
+2025-11-01,10:06,12.983327,77.598489,burglary,medium,Shivajinagar
+2025-11-01,16:06,12.967319,77.578173,vandalism,low,Chickpet
+2025-11-01,20:05,12.987884,77.59972,snatching,medium,Shivajinagar
+2025-11-01,21:34,13.004748,77.570642,vandalism,medium,Malleshwaram
+2025-11-02,06:07,12.990796,77.559286,theft,medium,Rajaji Nagar
+2025-11-02,10:46,12.936344,77.623687,burglary,low,Koramangala
+2025-11-02,11:33,12.912647,77.636748,theft,medium,Hosur Road
+2025-11-02,22:28,12.926654,77.549444,theft,medium,Banashankari
+2025-11-03,17:59,12.924213,77.58864,vandalism,low,Jayanagar
+2025-11-03,19:28,12.843208,77.663669,theft,medium,Electronic City
+2025-11-03,21:02,12.98461,77.602329,theft,medium,Shivajinagar
+2025-11-03,21:43,13.002594,77.568847,theft,high,Malleshwaram
+2025-11-04,03:22,13.024838,77.538919,snatching,high,Yeshwanthpur
+2025-11-04,09:53,12.974489,77.605671,theft,low,Brigade Road
+2025-11-04,14:07,12.927563,77.579702,robbery,high,Jayanagar
+2025-11-04,18:05,12.890316,77.602856,snatching,high,Bannerghatta Road
+2025-11-04,18:32,12.978182,77.611727,snatching,high,MG Road
+2025-11-04,19:28,12.969832,77.616522,snatching,high,MG Road
+2025-11-04,22:55,12.888119,77.599114,theft,low,Bannerghatta Road
+2025-11-05,03:14,12.915619,77.643022,burglary,medium,Hosur Road
+2025-11-05,12:32,12.922826,77.583356,snatching,high,Jayanagar
+2025-11-05,14:57,12.914331,77.643831,burglary,medium,Hosur Road
+2025-11-05,16:05,13.099568,77.593114,snatching,low,Yelahanka
+2025-11-05,18:33,12.917871,77.641603,snatching,low,Hosur Road
+2025-11-05,18:58,13.006956,77.573136,fraud,high,Malleshwaram
+2025-11-05,20:30,12.983464,77.61304,theft,medium,Commercial Street
+2025-11-05,21:35,13.008703,77.573354,burglary,medium,Malleshwaram
+2025-11-06,04:06,12.990361,77.552692,theft,medium,Rajajinagar
+2025-11-06,12:44,12.979233,77.567536,robbery,high,Majestic
+2025-11-06,20:58,12.968383,77.532818,theft,low,Vijayanagar
+2025-11-07,11:59,12.971088,77.606133,theft,medium,Brigade Road
+2025-11-07,17:57,12.90974,77.640928,burglary,high,Hosur Road
+2025-11-07,19:44,12.970084,77.580522,assault,medium,Chickpet
+2025-11-07,21:21,12.956478,77.696149,vandalism,high,Marathahalli
+2025-11-08,03:58,13.096466,77.593784,burglary,medium,Yelahanka
+2025-11-08,06:04,13.100542,77.600149,burglary,medium,Yelahanka
+2025-11-08,12:41,12.972191,77.618232,robbery,high,MG Road
+2025-11-08,18:06,12.962043,77.692505,theft,medium,Marathahalli
+2025-11-08,21:23,12.926132,77.583024,theft,low,Jayanagar
+2025-11-09,13:43,13.101503,77.595332,assault,medium,Yelahanka
+2025-11-09,15:53,12.991887,77.557458,assault,low,Rajaji Nagar
+2025-11-09,17:11,12.968524,77.583842,theft,medium,Chickpet
+2025-11-09,19:33,12.973548,77.749555,theft,medium,Whitefield
+2025-11-09,21:25,12.84452,77.65877,fraud,low,Electronic City
+2025-11-09,22:55,12.974302,77.641029,theft,medium,Indiranagar
+2025-11-10,10:12,12.957386,77.573993,snatching,medium,KR Market
+2025-11-10,10:49,12.891214,77.601654,theft,medium,Bannerghatta Road
+2025-11-10,12:48,13.097501,77.59966,snatching,high,Yelahanka
+2025-11-10,15:32,12.909641,77.643547,theft,high,HSR Layout
+2025-11-10,18:18,12.911986,77.637204,theft,high,Hosur Road
+2025-11-10,19:11,12.920064,77.587085,snatching,high,Jayanagar
+2025-11-10,19:24,12.993334,77.560388,theft,low,Rajaji Nagar
+2025-11-11,00:05,12.971994,77.611763,theft,low,Brigade Road
+2025-11-11,03:23,12.935951,77.622015,burglary,medium,Koramangala
+2025-11-11,04:02,12.907614,77.582562,theft,low,JP Nagar
+2025-11-11,06:51,12.928905,77.671604,theft,medium,Bellandur
+2025-11-11,19:52,12.923276,77.550358,theft,high,Banashankari
+2025-11-11,22:20,12.907745,77.58305,robbery,medium,JP Nagar
+2025-11-12,05:30,12.988169,77.559174,vandalism,medium,Rajajinagar
+2025-11-12,08:49,13.008555,77.574488,theft,low,Malleshwaram
+2025-11-12,18:03,12.919603,77.614653,theft,medium,BTM Layout
+2025-11-12,18:25,12.938721,77.62184,snatching,low,Koramangala
+2025-11-13,00:49,13.103626,77.595492,snatching,high,Yelahanka
+2025-11-13,10:47,12.9758,77.616395,fraud,medium,MG Road
+2025-11-13,11:06,12.959059,77.575984,assault,low,KR Market
+2025-11-13,18:13,12.991677,77.557946,burglary,medium,Rajaji Nagar
+2025-11-13,19:01,13.098838,77.593742,vandalism,medium,Yelahanka
+2025-11-13,21:23,12.927982,77.544376,fraud,low,Banashankari
+2025-11-14,10:39,12.961411,77.580809,burglary,low,Chickpet
+2025-11-14,12:25,12.960419,77.576192,theft,medium,KR Market
+2025-11-14,13:55,13.031518,77.53809,snatching,low,Yeshwanthpur
+2025-11-14,15:42,12.963867,77.57198,theft,medium,KR Market
+2025-11-14,18:19,12.964088,77.572313,snatching,medium,KR Market
+2025-11-14,19:23,12.909722,77.640743,theft,medium,Hosur Road
+2025-11-14,21:00,12.966983,77.6456,vandalism,low,Indiranagar
+2025-11-15,09:15,12.961772,77.579124,theft,low,Chickpet
+2025-11-15,14:50,12.961713,77.579481,theft,low,Chickpet
+2025-11-15,15:52,13.023761,77.541173,fraud,medium,Yeshwanthpur
+2025-11-15,17:09,12.914667,77.647133,theft,medium,HSR Layout
+2025-11-15,21:09,12.97021,77.613191,vandalism,medium,Brigade Road
+2025-11-15,21:17,12.907292,77.582016,theft,high,JP Nagar
+2025-11-16,03:36,12.962542,77.581867,burglary,high,Chickpet
+2025-11-16,15:25,12.98247,77.60681,theft,high,Commercial Street
+2025-11-16,18:15,12.975499,77.612858,theft,high,MG Road
+2025-11-16,19:32,12.971647,77.526378,assault,high,Vijayanagar
+2025-11-16,19:35,12.981616,77.570064,robbery,high,Majestic
+2025-11-16,20:00,12.916404,77.646878,burglary,high,HSR Layout
+2025-11-16,20:37,12.954718,77.697348,snatching,medium,Marathahalli
+2025-11-16,20:41,12.973185,77.610041,vandalism,low,Brigade Road
+2025-11-17,07:06,12.980089,77.574157,assault,medium,Majestic
+2025-11-17,08:32,13.029559,77.534226,theft,medium,Yeshwanthpur
+2025-11-17,13:33,12.925956,77.681199,robbery,high,Bellandur
+2025-11-17,14:50,12.922277,77.679483,theft,medium,Bellandur
+2025-11-17,15:54,13.008923,77.574248,snatching,high,Malleshwaram
+2025-11-18,07:23,13.025383,77.541318,assault,high,Yeshwanthpur
+2025-11-18,08:18,12.975964,77.526645,snatching,high,Vijayanagar
+2025-11-18,11:59,12.922792,77.679633,burglary,high,Bellandur
+2025-11-18,15:25,13.010036,77.574808,eve-teasing,medium,Malleshwaram
+2025-11-18,16:31,12.957265,77.57229,snatching,medium,KR Market
+2025-11-18,17:26,12.974474,77.612645,theft,medium,Brigade Road
+2025-11-18,20:35,12.972071,77.746252,vandalism,low,Whitefield
+2025-11-18,20:36,12.965163,77.748359,theft,medium,Whitefield
+2025-11-18,22:12,12.966746,77.578795,assault,medium,Chickpet
+2025-11-19,09:50,13.028441,77.542578,snatching,high,Yeshwanthpur
+2025-11-19,16:50,12.926172,77.550707,theft,low,Banashankari
+2025-11-19,21:29,12.968077,77.583725,eve-teasing,medium,Chickpet
+2025-11-20,01:00,12.912988,77.588781,assault,high,JP Nagar
+2025-11-20,02:42,12.974336,77.637804,theft,high,Indiranagar
+2025-11-20,05:40,12.967253,77.646139,snatching,high,Indiranagar
+2025-11-20,07:13,12.957094,77.569373,theft,medium,KR Market
+2025-11-20,20:05,12.961379,77.700478,assault,low,Marathahalli
+2025-11-20,20:53,12.929,77.679199,robbery,high,Bellandur
+2025-11-21,04:22,12.916651,77.641313,theft,low,Hosur Road
+2025-11-21,11:40,12.963618,77.574002,theft,medium,KR Market
+2025-11-21,11:49,12.919115,77.638597,robbery,high,Hosur Road
+2025-11-21,14:07,12.971792,77.573837,assault,high,Majestic
+2025-11-21,17:37,12.967,77.575963,assault,medium,Chickpet
+2025-11-21,18:58,12.987896,77.554825,robbery,low,Rajaji Nagar
+2025-11-21,19:23,12.96734,77.580418,vandalism,low,Chickpet
+2025-11-21,20:03,12.925308,77.543971,burglary,high,Banashankari
+2025-11-21,20:20,12.911811,77.647938,theft,low,HSR Layout
+2025-11-21,21:22,12.979272,77.612953,theft,high,Commercial Street
+2025-11-22,08:08,12.987035,77.557394,theft,medium,Rajaji Nagar
+2025-11-22,13:45,12.966079,77.569962,snatching,high,KR Market
+2025-11-22,17:21,12.96872,77.747485,burglary,medium,Whitefield
+2025-11-22,22:19,13.099225,77.597959,snatching,medium,Yelahanka
+2025-11-23,11:04,13.024262,77.537059,robbery,high,Yeshwanthpur
+2025-11-23,12:39,12.92893,77.671703,assault,medium,Bellandur
+2025-11-23,15:50,12.934579,77.62459,theft,medium,Koramangala
+2025-11-23,19:44,13.003624,77.572638,vandalism,medium,Malleshwaram
+2025-11-23,21:23,13.000907,77.571864,robbery,medium,Malleshwaram
+2025-11-23,22:22,13.102871,77.598611,snatching,low,Yelahanka
+2025-11-24,13:02,12.846788,77.661957,assault,high,Electronic City
+2025-11-24,19:21,12.976546,77.603265,snatching,high,Brigade Road
+2025-11-25,12:46,12.989524,77.59658,robbery,medium,Shivajinagar
+2025-11-26,16:50,12.848379,77.660003,theft,low,Electronic City
+2025-11-26,18:10,12.978379,77.576344,burglary,medium,Majestic
+2025-11-26,19:37,12.989655,77.59777,robbery,medium,Shivajinagar
+2025-11-26,21:43,12.918223,77.64036,burglary,medium,Hosur Road
+2025-11-26,21:52,12.849501,77.657801,theft,high,Electronic City
+2025-11-27,01:36,12.921046,77.674322,snatching,low,Bellandur
+2025-11-27,06:37,12.906802,77.589796,burglary,medium,JP Nagar
+2025-11-27,10:56,12.965548,77.57592,theft,medium,KR Market
+2025-11-27,11:01,12.964908,77.576635,vandalism,medium,Chickpet
+2025-11-27,15:03,12.844354,77.662742,theft,medium,Electronic City
+2025-11-27,16:17,12.93844,77.624912,assault,low,Koramangala
+2025-11-27,16:23,12.983515,77.608734,robbery,low,Commercial Street
+2025-11-27,23:45,12.893697,77.600101,theft,low,Bannerghatta Road
+2025-11-28,14:10,12.989025,77.558726,theft,medium,Rajajinagar
+2025-11-28,16:09,12.989734,77.605294,theft,medium,Shivajinagar
+2025-11-28,17:34,12.915861,77.641618,theft,high,Hosur Road
+2025-11-28,21:40,12.987923,77.552615,robbery,high,Rajaji Nagar
+2025-11-29,10:58,12.981265,77.606083,snatching,medium,Commercial Street
+2025-11-29,11:59,12.974239,77.609968,robbery,high,Brigade Road
+2025-11-29,13:21,12.920582,77.549439,snatching,high,Banashankari
+2025-11-29,14:33,12.911272,77.646855,snatching,medium,HSR Layout
+2025-11-29,19:46,12.972392,77.751221,theft,medium,Whitefield
+2025-11-30,08:32,12.972532,77.614001,burglary,high,MG Road
+2025-11-30,18:06,12.982842,77.60568,snatching,high,Commercial Street
+2025-11-30,20:06,13.026447,77.539666,snatching,medium,Yeshwanthpur
+2025-11-30,21:04,12.970535,77.529367,snatching,high,Vijayanagar
+2025-12-01,11:41,12.963119,77.579885,robbery,high,Chickpet
+2025-12-01,14:49,13.104753,77.595507,theft,medium,Yelahanka
+2025-12-02,12:20,12.97189,77.610217,robbery,high,Brigade Road
+2025-12-02,12:32,12.994814,77.559296,vandalism,medium,Rajajinagar
+2025-12-02,13:07,12.96869,77.57984,theft,medium,Chickpet
+2025-12-02,17:42,12.927219,77.67468,snatching,low,Bellandur
+2025-12-02,18:29,12.957906,77.694704,snatching,high,Marathahalli
+2025-12-02,19:36,13.008311,77.571902,theft,medium,Malleshwaram
+2025-12-03,11:53,12.913873,77.643395,theft,high,HSR Layout
+2025-12-03,16:40,13.003638,77.572991,snatching,medium,Malleshwaram
+2025-12-04,11:51,12.922007,77.679253,fraud,low,Bellandur
+2025-12-04,19:23,12.961451,77.580135,snatching,high,Chickpet
+2025-12-05,08:57,12.975823,77.603317,fraud,low,Brigade Road
+2025-12-05,12:27,12.926426,77.680088,snatching,low,Bellandur
+2025-12-05,17:41,12.961368,77.570019,theft,low,KR Market
+2025-12-05,19:19,12.849836,77.662928,robbery,high,Electronic City
+2025-12-05,21:21,13.028811,77.541251,theft,medium,Yeshwanthpur
+2025-12-06,17:32,12.919319,77.635717,burglary,medium,Hosur Road
+2025-12-06,21:53,12.96037,77.5748,burglary,medium,KR Market
+2025-12-07,01:13,12.937503,77.627256,eve-teasing,low,Koramangala
+2025-12-07,07:06,12.908823,77.645069,theft,low,HSR Layout
+2025-12-07,07:17,12.840982,77.655487,theft,high,Electronic City
+2025-12-07,16:01,12.916754,77.642864,burglary,medium,HSR Layout
+2025-12-07,16:45,12.957354,77.577883,burglary,high,KR Market
+2025-12-07,17:00,12.903737,77.58814,snatching,medium,JP Nagar
+2025-12-07,17:32,12.909789,77.586836,eve-teasing,medium,JP Nagar
+2025-12-07,19:03,12.93044,77.672595,robbery,low,Bellandur
+2025-12-07,20:53,13.027607,77.540792,theft,medium,Yeshwanthpur
+2025-12-08,05:00,12.848183,77.657062,burglary,low,Electronic City
+2025-12-08,08:02,12.930647,77.67536,theft,medium,Bellandur
+2025-12-08,15:16,12.973374,77.570768,vandalism,medium,Majestic
+2025-12-08,16:17,12.926616,77.551674,theft,medium,Banashankari
+2025-12-08,17:51,12.889364,77.600497,assault,medium,Bannerghatta Road
+2025-12-08,18:46,12.934154,77.628435,theft,high,Koramangala
+2025-12-09,10:23,12.988424,77.596461,burglary,high,Shivajinagar
+2025-12-09,13:11,12.966022,77.749382,theft,medium,Whitefield
+2025-12-09,15:33,12.974417,77.606211,snatching,high,Brigade Road
+2025-12-09,16:27,12.972263,77.604906,theft,low,Brigade Road
+2025-12-09,18:22,12.990145,77.556803,snatching,medium,Rajajinagar
+2025-12-09,19:22,12.960016,77.695503,snatching,low,Marathahalli
+2025-12-09,21:00,12.971262,77.609951,theft,medium,Brigade Road
+2025-12-10,09:00,12.973146,77.5727,burglary,high,Majestic
+2025-12-10,10:10,12.976948,77.604832,theft,low,Commercial Street
+2025-12-10,11:30,12.982997,77.612583,assault,low,Commercial Street
+2025-12-10,13:12,12.956223,77.576075,theft,medium,KR Market
+2025-12-10,14:37,12.976815,77.570116,assault,high,Majestic
+2025-12-10,16:22,12.964649,77.576305,snatching,medium,Chickpet
+2025-12-10,18:50,12.931865,77.628477,snatching,medium,Koramangala
+2025-12-10,20:08,12.976652,77.612759,snatching,medium,MG Road
+2025-12-11,05:08,12.992676,77.55911,theft,high,Rajaji Nagar
+2025-12-11,06:07,12.921132,77.551495,theft,medium,Banashankari
+2025-12-11,18:10,12.961465,77.580986,eve-teasing,high,Chickpet
+2025-12-11,20:43,12.926455,77.585817,snatching,high,Jayanagar
+2025-12-11,22:05,12.888053,77.607824,burglary,high,Bannerghatta Road
+2025-12-11,22:06,12.959237,77.695737,vandalism,medium,Marathahalli
+2025-12-11,22:50,12.924727,77.548748,robbery,medium,Banashankari
+2025-12-12,00:35,12.973918,77.614199,theft,medium,MG Road
+2025-12-12,10:15,12.968245,77.531954,snatching,low,Vijayanagar
+2025-12-12,13:01,12.976644,77.570191,snatching,high,Majestic
+2025-12-12,15:38,12.973475,77.574748,snatching,low,Majestic
+2025-12-12,20:04,12.845162,77.658244,snatching,high,Electronic City
+2025-12-12,22:52,12.920361,77.611529,theft,high,BTM Layout
+2025-12-13,01:11,12.979029,77.577084,burglary,high,Majestic
+2025-12-13,15:04,12.990371,77.605493,robbery,medium,Shivajinagar
+2025-12-13,16:14,12.913766,77.608989,snatching,high,BTM Layout
+2025-12-13,17:02,13.030799,77.541401,burglary,medium,Yeshwanthpur
+2025-12-13,17:11,12.975641,77.534092,burglary,high,Vijayanagar
+2025-12-13,17:32,12.987801,77.560522,theft,medium,Rajajinagar
+2025-12-13,19:42,12.927785,77.585273,theft,medium,Jayanagar
+2025-12-13,23:57,12.972698,77.528454,theft,high,Vijayanagar
+2025-12-14,10:49,12.968955,77.638864,snatching,low,Indiranagar
+2025-12-14,11:29,12.97262,77.609276,theft,medium,Brigade Road
+2025-12-14,18:57,12.980406,77.573161,robbery,low,Majestic
+2025-12-14,19:14,12.980312,77.604607,assault,medium,Commercial Street
+2025-12-14,20:09,12.912321,77.642829,snatching,high,HSR Layout
+2025-12-15,09:22,12.97366,77.618162,burglary,high,MG Road
+2025-12-15,17:57,12.980305,77.573783,theft,low,Majestic
+2025-12-15,18:01,12.890162,77.604645,robbery,high,Bannerghatta Road
+2025-12-15,20:43,12.915477,77.638045,burglary,medium,Hosur Road
+2025-12-15,21:09,12.977,77.570928,vandalism,low,Majestic
+2025-12-16,08:43,12.966569,77.575762,burglary,medium,Chickpet
+2025-12-16,11:35,12.91112,77.642297,theft,medium,HSR Layout
+2025-12-16,15:05,12.916229,77.634503,assault,low,Hosur Road
+2025-12-16,16:06,12.973062,77.604286,theft,medium,Brigade Road
+2025-12-16,20:12,12.991225,77.553622,vandalism,low,Rajaji Nagar
+2025-12-17,07:41,12.922539,77.580162,theft,low,Jayanagar
+2025-12-17,08:53,12.916209,77.607407,theft,low,BTM Layout
+2025-12-17,12:21,12.966068,77.573466,snatching,medium,KR Market
+2025-12-17,14:51,12.973093,77.605226,theft,medium,Brigade Road
+2025-12-17,21:10,12.96231,77.697395,robbery,high,Marathahalli
+2025-12-17,22:21,12.915523,77.643067,theft,medium,HSR Layout
+2025-12-17,23:05,12.912915,77.638746,theft,medium,Hosur Road
+2025-12-18,01:54,12.972381,77.637058,assault,medium,Indiranagar
+2025-12-18,18:42,12.963039,77.583164,theft,low,Chickpet
+2025-12-18,19:46,12.986253,77.604425,snatching,medium,Shivajinagar
+2025-12-19,00:52,12.92261,77.58245,vandalism,low,Jayanagar
+2025-12-19,06:12,13.097408,77.599463,theft,high,Yelahanka
+2025-12-19,16:31,12.974205,77.529548,theft,medium,Vijayanagar
+2025-12-20,11:31,12.973923,77.616217,snatching,medium,MG Road
+2025-12-20,16:10,12.973496,77.525744,burglary,medium,Vijayanagar
+2025-12-20,18:55,12.988025,77.604114,burglary,high,Shivajinagar
+2025-12-20,21:30,12.909253,77.58548,theft,medium,JP Nagar
+2025-12-21,18:52,12.959631,77.57389,snatching,medium,KR Market
+2025-12-22,04:26,12.849488,77.66064,eve-teasing,medium,Electronic City
+2025-12-22,11:29,12.935136,77.626596,burglary,high,Koramangala
+2025-12-22,17:45,12.9694,77.604963,snatching,medium,Brigade Road
+2025-12-22,18:15,12.906822,77.581639,robbery,high,JP Nagar
+2025-12-22,19:56,12.984906,77.596295,snatching,medium,Shivajinagar
+2025-12-23,10:45,12.991885,77.551396,robbery,high,Rajaji Nagar
+2025-12-23,16:47,12.981886,77.606186,snatching,high,Commercial Street
+2025-12-23,18:43,12.982115,77.613336,burglary,low,Commercial Street
+2025-12-23,20:22,12.967448,77.528122,burglary,high,Vijayanagar
+2025-12-23,20:25,12.929785,77.549817,robbery,high,Banashankari
+2025-12-23,22:16,12.920314,77.609272,theft,medium,BTM Layout
+2025-12-24,00:31,12.970258,77.637651,theft,high,Indiranagar
+2025-12-24,06:39,13.031409,77.542654,robbery,high,Yeshwanthpur
+2025-12-24,07:42,13.000707,77.568159,theft,medium,Malleshwaram
+2025-12-24,15:05,12.966923,77.582425,snatching,low,Chickpet
+2025-12-25,18:38,12.968747,77.642698,theft,medium,Indiranagar
+2025-12-25,20:29,12.910095,77.634826,theft,low,Hosur Road
+2025-12-26,08:11,13.023918,77.537753,robbery,high,Yeshwanthpur
+2025-12-26,09:08,12.936313,77.626608,snatching,high,Koramangala
+2025-12-26,17:00,12.921997,77.680833,theft,low,Bellandur
+2025-12-26,17:05,12.994349,77.557663,vandalism,medium,Rajajinagar
+2025-12-26,17:25,12.962536,77.578518,theft,low,Chickpet
+2025-12-26,17:26,12.992673,77.554001,snatching,high,Rajajinagar
+2025-12-26,18:47,12.973829,77.645365,burglary,high,Indiranagar
+2025-12-27,06:33,12.970145,77.575475,robbery,high,Chickpet
+2025-12-27,11:37,12.842782,77.659596,theft,medium,Electronic City
+2025-12-27,15:03,12.909671,77.590078,robbery,medium,JP Nagar
+2025-12-28,05:13,12.991147,77.560576,theft,high,Rajajinagar
+2025-12-28,14:13,12.9772,77.574928,theft,low,Majestic
+2025-12-28,14:51,12.982873,77.600445,theft,high,Shivajinagar
+2025-12-28,15:41,12.975385,77.568617,snatching,low,Majestic
+2025-12-28,18:35,12.989818,77.604157,vandalism,low,Shivajinagar
+2025-12-28,19:49,12.986108,77.614227,burglary,medium,Commercial Street
+2025-12-28,20:42,12.916015,77.638974,theft,medium,Hosur Road
+2025-12-29,04:36,13.098086,77.591445,theft,low,Yelahanka
+2025-12-29,09:01,12.971829,77.60493,snatching,high,Brigade Road
+2025-12-29,11:08,12.935117,77.623414,theft,low,Koramangala
+2025-12-29,21:12,13.00984,77.577702,theft,low,Malleshwaram
+2025-12-30,08:58,12.969117,77.637665,burglary,medium,Indiranagar
+2025-12-30,09:02,12.971026,77.752822,snatching,high,Whitefield
+2025-12-30,12:15,12.915379,77.645725,burglary,low,HSR Layout
+2025-12-31,07:25,12.972296,77.534478,robbery,high,Vijayanagar
+2025-12-31,11:08,12.977322,77.612876,theft,high,MG Road
+2025-12-31,14:58,12.914766,77.612872,burglary,high,BTM Layout
+2025-12-31,16:49,12.971457,77.642998,snatching,medium,Indiranagar
+2025-12-31,18:22,12.99,77.604818,assault,low,Shivajinagar
+2025-12-31,22:54,12.982634,77.607108,snatching,medium,Commercial Street
+2026-01-01,07:43,12.890728,77.606325,theft,low,Bannerghatta Road
+2026-01-01,10:01,12.972577,77.753727,assault,medium,Whitefield
+2026-01-01,15:42,12.983352,77.600723,snatching,high,Shivajinagar
+2026-01-01,20:55,12.924675,77.680534,theft,low,Bellandur
+2026-01-02,10:37,12.967854,77.58177,theft,medium,Chickpet
+2026-01-02,12:22,12.97284,77.611982,theft,high,Brigade Road
+2026-01-02,17:31,12.978045,77.609947,snatching,high,Commercial Street
+2026-01-02,17:31,12.929138,77.67983,theft,low,Bellandur
+2026-01-02,17:32,12.840683,77.65723,theft,high,Electronic City
+2026-01-02,18:50,12.915227,77.641393,snatching,medium,HSR Layout
+2026-01-02,19:25,12.916547,77.615065,theft,low,BTM Layout
+2026-01-02,20:01,12.964735,77.575718,burglary,medium,Chickpet
+2026-01-03,11:31,12.935902,77.621977,vandalism,medium,Koramangala
+2026-01-03,17:22,12.956481,77.694327,fraud,medium,Marathahalli
+2026-01-03,19:53,12.990063,77.597601,theft,high,Shivajinagar
+2026-01-04,05:39,12.914677,77.63588,robbery,high,Hosur Road
+2026-01-04,17:41,12.967415,77.530599,theft,low,Vijayanagar
+2026-01-04,18:49,12.92809,77.549395,vandalism,medium,Banashankari
+2026-01-05,05:02,12.960602,77.575148,theft,low,KR Market
+2026-01-05,09:18,12.965175,77.573764,assault,high,KR Market
+2026-01-05,12:51,12.982587,77.597793,fraud,medium,Shivajinagar
+2026-01-05,13:13,12.968473,77.578685,burglary,medium,Chickpet
+2026-01-05,14:17,12.967501,77.64145,theft,low,Indiranagar
+2026-01-05,19:39,12.96395,77.576505,snatching,low,KR Market
+2026-01-06,18:46,12.928747,77.553174,theft,low,Banashankari
+2026-01-06,20:15,13.024824,77.539617,assault,low,Yeshwanthpur
+2026-01-06,20:16,12.974442,77.531546,theft,medium,Vijayanagar
+2026-01-07,04:58,12.925671,77.581417,burglary,medium,Jayanagar
+2026-01-07,08:18,12.969125,77.578877,theft,low,Chickpet
+2026-01-07,19:09,12.9641,77.57508,robbery,high,Chickpet
+2026-01-07,19:33,12.97467,77.604301,burglary,medium,Brigade Road
+2026-01-07,21:57,12.990734,77.55316,theft,high,Rajaji Nagar
+2026-01-07,22:15,12.931497,77.62854,theft,high,Koramangala
+2026-01-08,05:29,12.972698,77.529486,robbery,medium,Vijayanagar
+2026-01-08,08:31,12.990749,77.596324,vandalism,medium,Shivajinagar
+2026-01-08,11:31,12.969353,77.644016,assault,medium,Indiranagar
+2026-01-08,14:12,12.909665,77.635619,theft,medium,Hosur Road
+2026-01-08,15:45,12.978694,77.61059,vandalism,medium,Commercial Street
+2026-01-08,18:20,12.969047,77.748795,theft,high,Whitefield
+2026-01-08,20:17,12.909675,77.588697,theft,high,JP Nagar
+2026-01-08,20:40,12.979242,77.568482,theft,low,Majestic
+2026-01-08,20:44,12.988411,77.554141,theft,medium,Rajaji Nagar
+2026-01-08,20:57,12.966951,77.583671,burglary,low,Chickpet
+2026-01-09,07:50,12.994269,77.557078,snatching,low,Rajaji Nagar
+2026-01-09,17:24,12.914886,77.639602,theft,medium,Hosur Road
+2026-01-09,19:16,13.025709,77.534042,snatching,medium,Yeshwanthpur
+2026-01-09,20:16,12.973861,77.569373,theft,medium,Majestic
+2026-01-09,20:53,13.002496,77.572068,theft,low,Malleshwaram
+2026-01-09,22:15,12.925005,77.546477,burglary,medium,Banashankari
+2026-01-10,09:14,12.978488,77.576524,theft,high,Majestic
+2026-01-10,09:26,12.965842,77.57646,snatching,medium,KR Market
+2026-01-10,11:35,12.886119,77.606921,theft,medium,Bannerghatta Road
+2026-01-10,15:44,12.975535,77.608374,theft,high,Brigade Road
+2026-01-10,16:31,13.096493,77.595232,theft,low,Yelahanka
+2026-01-11,05:24,12.922869,77.546716,burglary,low,Banashankari
+2026-01-11,09:50,12.971009,77.639676,burglary,medium,Indiranagar
+2026-01-11,14:15,12.980201,77.57573,theft,medium,Majestic
+2026-01-11,17:30,12.928373,77.550811,snatching,medium,Banashankari
+2026-01-11,18:17,12.983797,77.600073,burglary,medium,Shivajinagar
+2026-01-11,20:09,12.925702,77.549443,snatching,medium,Banashankari
+2026-01-11,20:55,12.977801,77.607447,theft,medium,Commercial Street
+2026-01-12,11:47,13.000548,77.568486,theft,medium,Malleshwaram
+2026-01-12,12:19,12.977062,77.572058,eve-teasing,medium,Majestic
+2026-01-12,12:30,12.925133,77.680371,snatching,high,Bellandur
+2026-01-12,17:25,12.9588,77.696315,eve-teasing,medium,Marathahalli
+2026-01-13,01:10,12.913535,77.642892,theft,medium,HSR Layout
+2026-01-13,13:14,12.968667,77.605153,theft,high,Brigade Road
+2026-01-13,21:39,12.841604,77.661611,theft,low,Electronic City
+2026-01-13,22:14,12.987534,77.550808,robbery,high,Rajaji Nagar
+2026-01-14,17:13,12.917361,77.608349,snatching,medium,BTM Layout
+2026-01-14,19:01,12.988346,77.559261,snatching,high,Rajaji Nagar
+2026-01-14,19:17,12.927989,77.675466,theft,high,Bellandur
+2026-01-14,19:45,12.986745,77.556522,theft,medium,Rajaji Nagar
+2026-01-14,23:44,12.976832,77.532561,theft,high,Vijayanagar
+2026-01-15,12:25,12.988442,77.605772,snatching,high,Shivajinagar
+2026-01-15,14:49,12.97123,77.614923,vandalism,low,MG Road
+2026-01-15,18:24,12.975236,77.57039,burglary,medium,Majestic
+2026-01-15,19:38,12.921896,77.680207,vandalism,medium,Bellandur
+2026-01-15,20:03,12.984239,77.601079,burglary,high,Shivajinagar
+2026-01-15,21:02,12.96224,77.574508,burglary,high,Chickpet
+2026-01-16,01:53,12.971198,77.608249,assault,medium,Brigade Road
+2026-01-16,07:36,12.887508,77.608884,theft,high,Bannerghatta Road
+2026-01-16,14:37,12.969426,77.583788,vandalism,medium,Chickpet
+2026-01-16,15:28,12.97929,77.61223,theft,medium,Commercial Street
+2026-01-16,17:41,12.983208,77.605096,theft,medium,Shivajinagar
+2026-01-17,09:59,12.968734,77.574568,snatching,medium,Chickpet
+2026-01-17,10:34,13.02542,77.536097,vandalism,low,Yeshwanthpur
+2026-01-17,18:05,12.97106,77.747454,snatching,high,Whitefield
+2026-01-17,18:17,12.982774,77.614388,burglary,high,Commercial Street
+2026-01-17,20:55,12.972201,77.609648,robbery,high,Brigade Road
+2026-01-17,21:53,12.913067,77.64408,eve-teasing,medium,HSR Layout
+2026-01-18,02:03,12.995761,77.559673,theft,low,Rajajinagar
+2026-01-18,10:22,12.915026,77.64425,eve-teasing,high,HSR Layout
+2026-01-18,10:51,12.979766,77.613281,theft,low,Commercial Street
+2026-01-18,19:41,12.968579,77.606182,burglary,medium,Brigade Road
+2026-01-19,00:32,12.976003,77.532535,theft,low,Vijayanagar
+2026-01-19,01:49,12.969543,77.644497,robbery,medium,Indiranagar
+2026-01-19,07:08,12.968997,77.5299,robbery,high,Vijayanagar
+2026-01-19,15:45,12.966957,77.750314,robbery,high,Whitefield
+2026-01-19,20:59,12.973716,77.637137,robbery,medium,Indiranagar
+2026-01-19,21:47,12.971797,77.618408,fraud,medium,MG Road
+2026-01-19,22:17,12.89263,77.5994,snatching,high,Bannerghatta Road
+2026-01-20,13:46,12.985583,77.605426,theft,high,Commercial Street
+2026-01-20,14:03,12.91213,77.605122,snatching,high,BTM Layout
+2026-01-20,15:55,12.911005,77.644444,theft,high,HSR Layout
+2026-01-20,16:53,12.988379,77.601412,theft,medium,Shivajinagar
+2026-01-20,18:02,12.988202,77.598686,theft,medium,Shivajinagar
+2026-01-20,21:25,12.969331,77.611026,snatching,medium,Brigade Road
+2026-01-20,21:28,12.966415,77.579216,burglary,low,Chickpet
+2026-01-20,22:17,12.984294,77.607411,assault,medium,Commercial Street
+2026-01-20,22:18,12.97826,77.572992,theft,high,Majestic
+2026-01-21,08:00,12.975662,77.575562,theft,high,Majestic
+2026-01-21,11:38,12.843556,77.662689,burglary,medium,Electronic City
+2026-01-21,12:41,12.974281,77.573498,snatching,high,Majestic
+2026-01-21,18:44,12.96985,77.646127,theft,medium,Indiranagar
+2026-01-21,19:59,13.09752,77.591596,theft,medium,Yelahanka
+2026-01-21,20:13,12.963869,77.574673,fraud,medium,Chickpet
+2026-01-21,20:37,12.97584,77.615473,vandalism,low,MG Road
+2026-01-21,22:19,12.973834,77.612213,theft,medium,Brigade Road
+2026-01-22,02:36,12.958928,77.576164,theft,low,KR Market
+2026-01-22,09:00,12.968541,77.581639,theft,low,Chickpet
+2026-01-22,13:42,12.843401,77.66064,snatching,medium,Electronic City
+2026-01-22,17:44,12.977627,77.607723,theft,high,Commercial Street
+2026-01-22,18:35,12.978969,77.575691,theft,medium,Majestic
+2026-01-22,18:41,12.988929,77.596709,snatching,low,Shivajinagar
+2026-01-22,20:40,12.966796,77.747876,assault,medium,Whitefield
+2026-01-23,08:02,12.915568,77.640854,burglary,medium,Hosur Road
+2026-01-23,10:01,12.980564,77.572201,snatching,high,Majestic
+2026-01-23,13:53,13.099976,77.599752,theft,low,Yelahanka
+2026-01-23,16:22,12.849292,77.663382,snatching,high,Electronic City
+2026-01-23,16:29,12.845773,77.655334,fraud,high,Electronic City
+2026-01-23,17:06,12.968502,77.580715,theft,high,Chickpet
+2026-01-23,23:12,12.977342,77.61353,theft,low,Commercial Street
+2026-01-24,04:17,12.969481,77.640311,theft,high,Indiranagar
+2026-01-24,04:34,12.968266,77.645382,theft,medium,Indiranagar
+2026-01-24,16:15,12.968624,77.580137,snatching,low,Chickpet
+2026-01-24,21:36,12.956242,77.573745,theft,high,KR Market
+2026-01-25,11:03,12.929664,77.674655,burglary,medium,Bellandur
+2026-01-25,12:31,13.023607,77.535994,assault,medium,Yeshwanthpur
+2026-01-25,14:30,12.95962,77.701667,eve-teasing,low,Marathahalli
+2026-01-25,19:27,12.98209,77.602164,assault,low,Shivajinagar
+2026-01-25,19:39,12.927806,77.582889,snatching,low,Jayanagar
+2026-01-26,16:05,12.895351,77.607569,theft,medium,Bannerghatta Road
+2026-01-26,16:22,12.938609,77.625069,assault,high,Koramangala
+2026-01-26,18:16,12.91975,77.605613,theft,medium,BTM Layout
+2026-01-26,19:37,13.005846,77.572209,theft,low,Malleshwaram
+2026-01-26,20:50,12.983483,77.611651,theft,high,Commercial Street
+2026-01-27,16:02,12.988004,77.556505,theft,high,Rajaji Nagar
+2026-01-27,16:07,12.973521,77.576792,burglary,high,Majestic
+2026-01-27,16:46,13.032296,77.543365,vandalism,low,Yeshwanthpur
+2026-01-27,19:28,12.910665,77.635973,theft,medium,Hosur Road
+2026-01-27,20:22,12.966486,77.579531,robbery,low,Chickpet
+2026-01-27,22:22,12.926058,77.581216,assault,medium,Jayanagar
+2026-01-27,22:31,12.972683,77.641862,theft,medium,Indiranagar
+2026-01-28,09:58,12.992462,77.554454,theft,low,Rajajinagar
+2026-01-28,11:26,12.981064,77.61364,snatching,high,Commercial Street
+2026-01-28,16:45,12.844324,77.660809,assault,high,Electronic City
+2026-01-28,18:31,12.957058,77.693741,theft,low,Marathahalli
+2026-01-28,19:21,12.906127,77.582837,robbery,high,JP Nagar
+2026-01-28,21:45,13.099365,77.596485,snatching,medium,Yelahanka
+2026-01-29,01:37,12.911017,77.64444,theft,medium,HSR Layout
+2026-01-29,05:18,12.927072,77.54498,theft,medium,Banashankari
+2026-01-29,15:23,12.909901,77.641757,burglary,low,Hosur Road
+2026-01-29,18:08,12.842494,77.656905,theft,high,Electronic City
+2026-01-29,21:42,12.927963,77.677597,burglary,medium,Bellandur
+2026-01-29,21:45,12.907677,77.581796,theft,medium,JP Nagar
+2026-01-29,22:32,12.933139,77.629284,robbery,high,Koramangala
+2026-01-30,06:17,12.93311,77.622088,snatching,high,Koramangala
+2026-01-30,14:13,12.978219,77.608277,assault,medium,Commercial Street
+2026-01-30,16:15,12.910401,77.643867,burglary,low,Hosur Road
+2026-01-30,17:07,13.026839,77.542694,theft,medium,Yeshwanthpur
+2026-01-30,18:13,12.981508,77.613015,robbery,medium,Commercial Street
+2026-01-30,23:03,13.002469,77.569978,burglary,low,Malleshwaram
+2026-01-31,01:31,13.03073,77.541699,robbery,medium,Yeshwanthpur
+2026-02-01,01:31,12.970298,77.583313,theft,high,Chickpet
+2026-02-01,07:29,12.92814,77.548991,burglary,low,Banashankari
+2026-02-01,13:09,12.97935,77.573166,burglary,medium,Majestic
+2026-02-01,18:22,12.98564,77.600839,eve-teasing,medium,Shivajinagar
+2026-02-02,09:00,12.9244,77.676609,burglary,medium,Bellandur
+2026-02-02,10:37,12.971847,77.528093,snatching,high,Vijayanagar
+2026-02-02,19:31,12.99009,77.596076,assault,medium,Shivajinagar
+2026-02-02,20:37,12.928491,77.581697,robbery,medium,Jayanagar
+2026-02-03,10:04,12.966414,77.748932,robbery,high,Whitefield
+2026-02-03,10:15,12.966903,77.745817,fraud,low,Whitefield
+2026-02-03,15:45,12.988554,77.553502,robbery,medium,Rajajinagar
+2026-02-03,19:36,12.845737,77.660182,assault,low,Electronic City
+2026-02-03,22:48,12.974128,77.534682,eve-teasing,medium,Vijayanagar
+2026-02-04,02:03,12.914013,77.64296,robbery,high,HSR Layout
+2026-02-04,10:04,13.09743,77.594921,burglary,high,Yelahanka
+2026-02-04,20:42,13.101576,77.594496,theft,low,Yelahanka
+2026-02-04,20:54,12.844307,77.657691,robbery,high,Electronic City
+2026-02-05,03:02,12.910801,77.586217,burglary,high,JP Nagar
+2026-02-05,10:40,12.986369,77.607204,burglary,high,Commercial Street
+2026-02-05,13:08,12.956271,77.577881,robbery,low,KR Market
+2026-02-05,15:59,12.960736,77.571303,snatching,high,KR Market
+2026-02-05,16:28,12.975263,77.526059,assault,medium,Vijayanagar
+2026-02-05,20:57,12.963768,77.574041,theft,medium,KR Market
+2026-02-06,18:46,13.03176,77.539784,assault,high,Yeshwanthpur
+2026-02-06,19:49,12.961321,77.692979,assault,low,Marathahalli
+2026-02-06,20:38,12.961491,77.569265,vandalism,low,KR Market
+2026-02-07,03:20,12.922501,77.680819,assault,medium,Bellandur
+2026-02-07,04:47,12.922901,77.582224,theft,high,Jayanagar
+2026-02-07,09:52,12.990309,77.55949,vandalism,high,Rajajinagar
+2026-02-07,10:11,12.972432,77.606154,burglary,high,Brigade Road
+2026-02-07,10:58,12.846487,77.661418,robbery,high,Electronic City
+2026-02-07,11:32,13.027098,77.541704,snatching,medium,Yeshwanthpur
+2026-02-07,16:36,12.964293,77.576734,theft,low,Chickpet
+2026-02-07,17:21,12.991494,77.600621,robbery,medium,Shivajinagar
+2026-02-07,21:24,12.957616,77.700112,theft,medium,Marathahalli
+2026-02-08,06:11,12.971325,77.611242,snatching,high,MG Road
+2026-02-08,08:56,12.918932,77.640641,snatching,low,Hosur Road
+2026-02-08,12:00,13.097674,77.601121,theft,low,Yelahanka
+2026-02-08,20:14,12.977629,77.612276,theft,medium,Commercial Street
+2026-02-08,21:47,12.989759,77.55995,snatching,medium,Rajaji Nagar
+2026-02-08,21:48,12.970387,77.612901,snatching,high,Brigade Road
+2026-02-09,09:10,12.955908,77.696136,burglary,high,Marathahalli
+2026-02-09,10:09,12.968566,77.579366,burglary,high,Chickpet
+2026-02-09,19:19,12.975646,77.567366,snatching,high,Majestic
+2026-02-10,04:53,12.972866,77.532709,snatching,medium,Vijayanagar
+2026-02-10,09:23,12.971993,77.754801,assault,medium,Whitefield
+2026-02-10,11:15,12.91212,77.640927,theft,medium,HSR Layout
+2026-02-10,13:49,12.984102,77.60454,theft,medium,Commercial Street
+2026-02-10,15:08,13.02962,77.535557,snatching,medium,Yeshwanthpur
+2026-02-10,18:41,13.032421,77.539547,snatching,high,Yeshwanthpur
+2026-02-10,18:54,12.97021,77.616471,theft,high,MG Road
+2026-02-10,19:28,12.969366,77.637576,theft,medium,Indiranagar
+2026-02-10,22:10,12.939409,77.620814,robbery,medium,Koramangala
+2026-02-11,07:51,12.957391,77.70162,burglary,high,Marathahalli
+2026-02-11,11:39,12.958994,77.574284,eve-teasing,medium,KR Market
+2026-02-11,11:51,12.970757,77.608842,robbery,high,Brigade Road
+2026-02-11,16:44,12.968095,77.525042,theft,low,Vijayanagar
+2026-02-11,17:26,12.979704,77.574923,vandalism,low,Majestic
+2026-02-11,19:20,12.914345,77.648908,robbery,medium,HSR Layout
+2026-02-12,08:24,12.993907,77.553364,theft,high,Rajajinagar
+2026-02-12,09:18,12.972327,77.568479,vandalism,low,Majestic
+2026-02-12,11:57,12.886663,77.601039,vandalism,low,Bannerghatta Road
+2026-02-12,12:18,12.936422,77.620973,snatching,low,Koramangala
+2026-02-12,14:21,13.024287,77.535894,theft,medium,Yeshwanthpur
+2026-02-12,15:58,12.965627,77.574486,burglary,high,KR Market
+2026-02-12,16:26,12.958129,77.697133,eve-teasing,medium,Marathahalli
+2026-02-12,17:54,12.98114,77.574771,burglary,low,Majestic
+2026-02-12,21:24,12.98411,77.610264,snatching,high,Commercial Street
+2026-02-12,23:30,12.980252,77.613109,fraud,medium,Commercial Street
+2026-02-13,07:39,12.96612,77.569119,snatching,high,KR Market
+2026-02-13,15:41,12.981405,77.56815,robbery,high,Majestic
+2026-02-13,19:18,12.959935,77.57279,eve-teasing,medium,KR Market
+2026-02-13,23:56,12.996643,77.553183,snatching,low,Rajajinagar
+2026-02-14,00:25,13.027616,77.537408,snatching,high,Yeshwanthpur
+2026-02-14,12:28,12.976677,77.618438,theft,medium,MG Road
+2026-02-14,13:34,12.962277,77.569704,burglary,high,KR Market
+2026-02-14,14:57,12.909436,77.640525,theft,low,HSR Layout
+2026-02-14,16:13,13.006255,77.571448,snatching,medium,Malleshwaram
+2026-02-14,17:06,12.963566,77.574182,assault,medium,KR Market
+2026-02-14,17:34,12.982679,77.605303,vandalism,medium,Commercial Street
+2026-02-14,19:09,12.962523,77.698948,theft,low,Marathahalli
+2026-02-14,20:46,12.928263,77.585643,theft,medium,Jayanagar
+2026-02-14,21:52,12.975884,77.574834,vandalism,medium,Majestic
+2026-02-14,21:58,12.908391,77.586377,theft,medium,JP Nagar
+2026-02-15,06:20,12.96407,77.576735,fraud,low,KR Market
+2026-02-15,07:05,12.915587,77.640171,theft,low,HSR Layout
+2026-02-15,08:43,12.988473,77.604166,vandalism,medium,Shivajinagar
+2026-02-15,13:54,12.989993,77.604626,assault,high,Shivajinagar
+2026-02-15,17:20,12.926748,77.672869,robbery,high,Bellandur
+2026-02-15,17:33,12.96726,77.638984,theft,high,Indiranagar
+2026-02-15,18:40,12.893245,77.599991,theft,low,Bannerghatta Road
+2026-02-15,20:09,12.909688,77.64259,assault,high,Hosur Road
+2026-02-15,20:45,12.967825,77.578701,vandalism,low,Chickpet
+2026-02-15,20:59,12.915559,77.611423,burglary,medium,BTM Layout
+2026-02-15,23:03,12.974536,77.63966,assault,medium,Indiranagar
+2026-02-16,11:47,12.979407,77.56871,robbery,low,Majestic
+2026-02-16,15:53,12.91229,77.643602,theft,medium,HSR Layout
+2026-02-16,18:43,12.973894,77.527645,theft,low,Vijayanagar
+2026-02-16,18:58,13.025078,77.538819,theft,low,Yeshwanthpur
+2026-02-16,20:05,12.989122,77.558832,theft,high,Rajajinagar
+2026-02-16,20:26,12.966072,77.578697,eve-teasing,high,Chickpet
+2026-02-16,21:13,12.921634,77.585748,vandalism,medium,Jayanagar
+2026-02-16,21:48,12.913818,77.607662,burglary,high,BTM Layout
+2026-02-17,03:26,12.91341,77.642866,theft,low,Hosur Road
+2026-02-17,15:16,12.929293,77.677594,theft,low,Bellandur
+2026-02-18,04:02,13.102288,77.593544,theft,medium,Yelahanka
+2026-02-18,14:09,12.969136,77.747193,burglary,high,Whitefield
+2026-02-18,17:39,12.976701,77.529787,theft,high,Vijayanagar
+2026-02-18,18:11,12.979173,77.571977,theft,high,Majestic
+2026-02-18,18:21,13.027109,77.536499,theft,high,Yeshwanthpur
+2026-02-18,18:52,12.975663,77.525078,snatching,medium,Vijayanagar
+2026-02-19,10:15,12.965718,77.746399,burglary,low,Whitefield
+2026-02-19,13:27,12.962119,77.581384,vandalism,medium,Chickpet
+2026-02-19,17:02,12.989259,77.600198,snatching,medium,Shivajinagar
+2026-02-19,18:00,12.933694,77.619922,theft,low,Koramangala
+2026-02-19,18:22,12.99383,77.553985,fraud,low,Rajajinagar
+2026-02-19,22:00,12.924003,77.681228,burglary,medium,Bellandur
+2026-02-20,13:49,12.965994,77.570556,robbery,medium,KR Market
+2026-02-20,14:10,12.972105,77.754569,snatching,high,Whitefield
+2026-02-20,16:52,12.936308,77.625134,robbery,high,Koramangala
+2026-02-20,18:23,12.984025,77.607826,theft,low,Commercial Street
+2026-02-20,19:26,12.923138,77.679653,snatching,high,Bellandur
+2026-02-20,19:49,12.88966,77.606015,burglary,medium,Bannerghatta Road
+2026-02-20,22:03,12.925768,77.54823,burglary,medium,Banashankari
+2026-02-21,08:29,12.983726,77.606842,snatching,high,Commercial Street
+2026-02-21,16:50,13.001273,77.56851,assault,high,Malleshwaram
+2026-02-21,19:55,12.963711,77.570518,theft,medium,KR Market
+2026-02-21,20:58,12.974992,77.604087,theft,medium,Brigade Road
+2026-02-22,10:47,12.915673,77.613057,vandalism,low,BTM Layout
+2026-02-22,11:03,12.981475,77.604517,robbery,high,Commercial Street
+2026-02-23,14:00,12.972296,77.568665,snatching,medium,Majestic
+2026-02-23,15:50,12.973476,77.609894,burglary,medium,MG Road
+2026-02-23,18:55,13.098283,77.598046,theft,medium,Yelahanka
+2026-02-24,14:17,12.968226,77.749161,vandalism,medium,Whitefield
+2026-02-24,17:31,12.956491,77.571368,snatching,high,KR Market
+2026-02-24,19:24,12.971286,77.533082,robbery,high,Vijayanagar
+2026-02-24,19:37,13.002366,77.572092,snatching,low,Malleshwaram
+2026-02-24,22:41,12.97093,77.642797,vandalism,low,Indiranagar
+2026-02-25,02:35,12.969881,77.643878,snatching,low,Indiranagar
+2026-02-25,07:06,12.963034,77.572435,fraud,high,KR Market
+2026-02-25,08:28,12.967509,77.528554,theft,low,Vijayanagar
+2026-02-25,10:08,12.98835,77.557879,snatching,medium,Rajajinagar
+2026-02-25,17:48,12.984177,77.605164,theft,medium,Commercial Street
+2026-02-25,19:18,12.980573,77.611838,theft,high,Commercial Street
+2026-02-25,21:52,12.926309,77.549577,eve-teasing,medium,Banashankari
+2026-02-26,07:58,13.028595,77.53404,theft,high,Yeshwanthpur
+2026-02-26,12:38,12.98212,77.612492,fraud,low,Commercial Street
+2026-02-26,18:13,12.925715,77.680836,theft,high,Bellandur
+2026-02-26,23:27,12.970026,77.640912,robbery,medium,Indiranagar
+2026-02-27,04:53,12.914409,77.636541,theft,high,Hosur Road
+2026-02-27,07:58,12.927066,77.552408,fraud,medium,Banashankari
+2026-02-27,16:04,12.980563,77.614178,theft,medium,Commercial Street
+2026-02-27,17:48,12.973387,77.570731,snatching,high,Majestic
+2026-02-27,21:23,12.926075,77.673427,theft,high,Bellandur
+2026-02-28,01:25,12.914311,77.64346,burglary,high,HSR Layout
+2026-02-28,09:54,12.974716,77.574218,theft,medium,Majestic
+2026-02-28,12:33,13.030342,77.538973,vandalism,medium,Yeshwanthpur
+2026-02-28,17:11,12.958858,77.572866,theft,high,KR Market
+2026-02-28,18:49,13.024585,77.543008,theft,medium,Yeshwanthpur
+2026-02-28,20:56,12.924356,77.580393,theft,high,Jayanagar
+2026-02-28,21:35,12.893625,77.605566,snatching,high,Bannerghatta Road
+2026-02-28,21:36,12.972569,77.614006,theft,medium,MG Road
+2026-02-28,22:22,12.973748,77.636595,snatching,medium,Indiranagar
+2026-03-01,11:17,12.977675,77.611662,snatching,low,Brigade Road
+2026-03-01,18:36,12.939583,77.62843,eve-teasing,high,Koramangala
+2026-03-02,03:33,12.987055,77.556311,eve-teasing,high,Rajajinagar
+2026-03-02,08:40,12.968983,77.642884,eve-teasing,medium,Indiranagar
+2026-03-02,08:52,13.027628,77.539564,assault,medium,Yeshwanthpur
+2026-03-02,11:25,12.933106,77.629411,assault,medium,Koramangala
+2026-03-02,12:12,12.974378,77.637149,theft,medium,Indiranagar
+2026-03-02,19:15,12.972675,77.75227,burglary,high,Whitefield
+2026-03-02,20:02,12.936001,77.62509,snatching,high,Koramangala
+2026-03-03,09:07,12.971203,77.604652,assault,low,Brigade Road
+2026-03-03,14:38,12.959084,77.696624,vandalism,medium,Marathahalli
+2026-03-03,16:31,12.965679,77.574754,snatching,high,KR Market
+2026-03-03,17:07,12.927662,77.587418,robbery,high,Jayanagar
+2026-03-03,17:30,13.030823,77.534065,robbery,high,Yeshwanthpur
+2026-03-03,18:35,12.978152,77.617933,eve-teasing,medium,MG Road
+2026-03-03,23:10,12.912144,77.647604,theft,low,HSR Layout
+2026-03-04,01:13,13.029875,77.533999,theft,low,Yeshwanthpur
+2026-03-04,17:37,13.006568,77.575933,theft,high,Malleshwaram
+2026-03-04,20:12,12.925685,77.676126,theft,medium,Bellandur
+2026-03-05,03:42,12.930578,77.628965,theft,medium,Koramangala
+2026-03-05,04:06,12.966973,77.645155,burglary,medium,Indiranagar
+2026-03-05,04:36,12.90828,77.646998,snatching,medium,HSR Layout
+2026-03-05,13:55,12.972686,77.576911,theft,low,Majestic
+2026-03-05,14:59,12.981375,77.604558,burglary,high,Commercial Street
+2026-03-05,19:57,12.968643,77.75074,theft,low,Whitefield
+2026-03-06,08:47,12.962016,77.579365,snatching,medium,Chickpet
+2026-03-07,10:37,12.976938,77.610144,vandalism,low,Brigade Road
+2026-03-07,12:42,12.968393,77.74736,robbery,high,Whitefield
+2026-03-07,15:30,12.979417,77.570422,fraud,low,Majestic
+2026-03-07,15:47,12.958955,77.701029,theft,medium,Marathahalli
+2026-03-07,17:26,12.991291,77.557995,theft,medium,Rajajinagar
+2026-03-07,17:50,13.03301,77.53623,burglary,high,Yeshwanthpur
+2026-03-07,17:50,12.915746,77.610267,snatching,high,BTM Layout
+2026-03-07,20:43,12.959447,77.695551,burglary,high,Marathahalli
